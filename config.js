@@ -13,11 +13,11 @@
 */
 
 module.exports = {
-  SESSION_ID: "Enter your session id",
-  OWNER_NUMBER: "Enter your owner number",
+  SESSION_ID: "bigTQbCD#N4eE9mAQT1pinW_H8xKe-VAXJU8wIKJiXx2nRbba4cA",
+  OWNER_NUMBER: "94701814946",
   PREFIX: ".",
-  GOOGLE_API_KEY: "Enter your google api key",
-  MAX_SIZE: "100", // 100MB
+  GOOGLE_API_KEY: "AIzaSyDpCGEwnXmyVURfMCKSA245bNsS2NFewB8",
+  MAX_SIZE: "2500", // 100MB
   AUTO_STATUS_READ: "on", // on or off
-  MV_SEND_JID: "Enter your default movie send jid",
+  MV_SEND_JID: "120363355439809658@g.us",
 };
