@@ -6468,7 +6468,7 @@ ${downloadLinks}
             );
           }
           break;
-case "test":
+case "hirunews":
 
 try {
 
@@ -6478,16 +6478,24 @@ let $ = cheerio.load(response.data);
 let newResponse = await axios.get(`${url}`);
 $ = cheerio.load(newResponse.data);
  const title = $('body > div:nth-child(17) > center > h1').text().trim();
+ const date = $('body > div:nth-child(17) > center > p').text().trim();
+ const news = $('#article-phara2').text().trim();
  
- console.log(title);
- console.log(url);
+ let msg = `${title}
+ 
+ ${date}
+
+ ${url}
+ 
+ ${news}`
+ console.log(msg);
 
 } catch (error) {
-            console.error("Error in test command:", error);
+            console.error("Error in hirunews command:", error);
             await sock.sendMessage(
               jid,
               {
-                text: "❌ Error fetching data. Please try again later.",
+                text: "❌ Error fetching news. Please try again later.",
               },
               { quoted: m }
             );
