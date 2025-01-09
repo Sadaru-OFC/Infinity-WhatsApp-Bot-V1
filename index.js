@@ -4997,8 +4997,1523 @@
 
 
 
-const _0x569029=_0x3db4;(function(_0x4fcb8e,_0x4ec34f){const _0x45e66f=_0x3db4,_0x3a9ab8=_0x4fcb8e();while(!![]){try{const _0x3561ed=-parseInt(_0x45e66f(0x19b))/0x1+parseInt(_0x45e66f(0x136))/0x2+-parseInt(_0x45e66f(0x212))/0x3*(-parseInt(_0x45e66f(0x1a8))/0x4)+-parseInt(_0x45e66f(0x16d))/0x5*(-parseInt(_0x45e66f(0x15e))/0x6)+parseInt(_0x45e66f(0x17b))/0x7+-parseInt(_0x45e66f(0x12b))/0x8+-parseInt(_0x45e66f(0x1ab))/0x9*(-parseInt(_0x45e66f(0x115))/0xa);if(_0x3561ed===_0x4ec34f)break;else _0x3a9ab8['push'](_0x3a9ab8['shift']());}catch(_0x352b72){_0x3a9ab8['push'](_0x3a9ab8['shift']());}}}(_0x4ce7,0xdf5da));function _0x3db4(_0x37a55b,_0x4e120d){const _0x4ce751=_0x4ce7();return _0x3db4=function(_0x3db4e7,_0x268388){_0x3db4e7=_0x3db4e7-0xe9;let _0x4a6a1b=_0x4ce751[_0x3db4e7];return _0x4a6a1b;},_0x3db4(_0x37a55b,_0x4e120d);}const {default:makeWASocket,DisconnectReason,useMultiFileAuthState}=require(_0x569029(0x152)),{Boom}=require(_0x569029(0x107)),path=require(_0x569029(0x1d0)),{existsSync,mkdirSync}=require('fs'),fs=require('fs'),pino=require(_0x569029(0x1e8)),config=require(_0x569029(0x122)),axios=require(_0x569029(0x154)),cheerio=require('cheerio'),{File}=require('megajs'),PREFIX=config['PREFIX'],SESSION_DIR=_0x569029(0x17f);!existsSync(SESSION_DIR)&&mkdirSync(SESSION_DIR);function _0x4ce7(){const _0xdc879f=['open','mainImage','\x0a*Type\x20:*\x20','\x20MB\x0a','\x0a\x0a>\x20ɪɴꜰɪɴɪᴛʏ\x20ᴍᴏᴠɪᴇ\x20ᴡᴏʀʟᴅ','*_🎵\x20YouTube\x20Video\x20Details_*\x0a\x0a','\x0a*Year\x20:*\x20','120363355439809658@g.us','documentMessage','\x0a\x0a🎯\x20*IMDB\x20Rate\x20:*\x20','pushName','sendMessage','statusCode','4A3FF8BDB43B1D4F75FCCF5F6146A703','\x20sended\x20to\x20','\x0a\x0a*🤵‍♂\x20Director\x20:*\x20','memoryUsage','```','results','trim','\x0a\x0a⏱\x20*Avarage\x20Runtime\x20:*\x20','path','info','timestamp','slice','participant','/movie/sinhalasub/movie?url=','pixeldrain.com','ago','size','❌\x20No\x20download\x20links','❌\x20Error\x20downloading\x20movie.\x20Please\x20try\x20again\x20later.','❌\x20Only\x20bot\x20developer\x20can\x20use\x20eval\x20command!','name','alive','listen','@s.whatsapp.net','eval','🎬\x20ɪᴍᴡ\x20🎬\x20','/movie/firemovie/tvshow?url=','generateContent','map','reactionMessage','date','❌\x20Can\x27t\x20download\x20your\x20movie\x20in\x20this\x20quality.Please\x20try\x20another\x20quality','pino','status@broadcast','\x0a\x0a*Duration\x20:*\x20','*Result:*\x0a```\x0a','quota','result','warn','❌\x20No\x20results\x20found!','country','📝\x20*Eval\x20Result*\x0a\x0a','❌\x20Error\x20fetching\x20movie\x20details!\x20Please\x20try\x20again\x20later.','run','📽\x20*_','⚡\x20*Node\x20Version:*\x20','Please\x20add\x20your\x20session\x20to\x20SESSION_ID\x20env\x20!!','send','toFixed','#cast\x20>\x20div:nth-child(2)\x20>\x20div\x20>\x20div.data\x20>\x20div.name\x20>\x20a','\x0a\x0a📅\x20*Release\x20Date\x20:*\x20','close','HARM_CATEGORY_HATE_SPEECH','\x0a\x0a🔢\x20Reply\x20Below\x20Number\x20:\x0a\x0a1\x20||\x20Audio\x0a2\x20||\x20Document','split','⛔\x20Premium\x20Access\x20Required\x0a\x0a💫\x20You\x20are\x20not\x20a\x20premium\x20user\x0a📱\x20Please\x20contact\x20owner\x20to\x20purchase\x20movie\x20download\x20feature:\x0a\x0a💰\x201\x20month:\x20Rs.300\x0a📲\x20WhatsApp:\x20wa.me/94701814946?text=Buy+movie+premium','command\x20to\x20execute\x20a\x20command\x0a','get','express','HARM_CATEGORY_HARASSMENT','runtime','ping','\x0a\x0a*Director\x20:*\x20','\x0a\x0a🧩\x20*Categories\x20:*\x20','\x0a\x0a🔢\x20Reply\x20Below\x20Number\x20:\x0a\x0a1\x20||\x20Video\x0a2\x20||\x20Document','❌\x20Error\x20displaying\x20help\x20menu!','\x0a\x0a🎯\x20*TMDB\x20Rate\x20:*\x20','94701814946','util','endsWith','*_INFINITY\x20WA\x20BOT\x20MOVIE\x20DOWNLOADER_*\x0a\x0a📽\x20*Movie\x20Name\x20:*\x20','❌\x20Can\x27t\x20find\x20this\x20movie','Error\x20in\x20ftssend\x20command:','vm2','74388gAjZpB','loggedOut','❌\x20Please\x20reply\x20to\x20a\x20message\x20you\x20want\x20to\x20forward!','Error\x20in\x20song\x20command:','❌\x20Error\x20download\x20video.\x20Please\x20try\x20again\x20later.','replace','key','director','videoMessage','\x0a\x0a*Ended\x20date\x20:*\x20','TEL;type=CELL;type=VOICE;waid=94701814946:+94701814946\x0a','composing','*⏱️\x20Duration:*\x20','\x0a\x0a▬▬▬▬▬▬▬▬▬▬▬▬▬▬\x0a\x0a','url','❌\x20Error\x20getting\x20jid\x20address!','imageMessage','❌\x20Error\x20sending\x20TV\x20show.\x20Please\x20try\x20again\x20later.','>\x20ɪɴꜰɪɴɪᴛʏ\x20ᴡʜᴀᴛꜱᴀᴘᴘ\x20ʙᴏᴛ\x20ᴄʀᴇᴀᴛᴇᴅ\x20ʙʏ\x20ꜱᴀᴅᴀʀᴜ','buffer','/api/file/','❌\x20Please\x20provide\x20a\x20movie\x20name\x20&\x20send\x20jid!\x0a\x0aExample:\x20.sinsend\x20deadpool\x20&\x20123456789@g.us','*🔄\x20Checking\x20bot\x20speed...*\x0a\x0a>\x20ɪɴꜰɪɴɪᴛʏ\x20ᴡʜᴀᴛꜱᴀᴘᴘ\x20ʙᴏᴛ\x20ᴄʀᴇᴀᴛᴇᴅ\x20ʙʏ\x20ꜱᴀᴅᴀʀᴜ','extendedTextMessage','error','❌\x20Please\x20provide\x20a\x20movie\x20name!\x0a\x0aExample:\x20.cinesubz\x20deadpool','\x0a\x0a⏱\x20*Runtime\x20:*\x20','await','\x0a\x0a*🔗\x20Link\x20:*\x20','.mp4','fromURL','Error\x20in\x20sinsend\x20command:','stickerMessage','writeFile','*_INFINITY\x20WA\x20BOT\x20MOVIE\x20SENDER_*\x0a\x0a▬▬▬▬▬▬▬▬▬▬▬▬▬▬\x0a\x0a*Send\x20jid\x20:*\x20','https://github.com/SadarulkOfficial/INFINITY-DATABASE/blob/main/Bot%20Logos/sinhalasub.png?raw=true','stanzaId','\x20(\x20','contextInfo','Error\x20in\x20owner\x20command:','❌\x20API\x20quota\x20exceeded.\x20Please\x20try\x20again\x20later.','caption','@hapi/boom','❌\x20Error\x20forwarding\x20message!\x20','@google/generative-ai','\x0a\x0a*🎯\x20IMDB\x20Rate\x20:*\x20','/movie/sinhalasub/search?text=','views','❌\x20Only\x20bot\x20owners\x20can\x20use\x20forward\x20command!','Error\x20in\x20video\x20command:','Error\x20in\x20help\x20command:','connection.update','quotedMessage','/movie/firemovie/episode?url=','_*\x0a\x0a📅\x20*Release\x20Date\x20:*\x20','ORG:Infinity\x20WA\x20Bot\x20Developer;\x0a','11374990kXhHjR','\x0a\x0a*🌎\x20Country\x20:*\x20','heapUsed','🤖\x20*_Bot\x20Status\x20Check_*\x0a\x0a','#single\x20>\x20div.content.right\x20>\x20div.sheader\x20>\x20div.data\x20>\x20div.extra\x20>\x20span.country','thumbnail','FN:Sadaru\x0a','```\x0a\x0a','Server\x20listening\x20on\x20port\x20http://localhost:','startsWith','Error\x20in\x20AI\x20command:','https://www.dark-yasiya-api.site','\x0a\x0a*Release\x20Date\x20:*\x20','./config','dl_links','❌\x20Please\x20provide\x20a\x20movie\x20link\x20&\x20send\x20jid!\x0a\x0aExample:\x20.ftssend\x20https://firemovieshub.com/tvshows/loki\x20&\x20123456789@g.us','audio/mpeg','messages.upsert','*Error:*\x0a```\x0a','👨‍💻','VERSION:3.0\x0a','Infinity\x20X\x20movies\x20∞','2144400IrwwkQ','PORT','type','owner','mimetype','\x0a\x0a>\x20ɢʀᴏᴜᴘ\x20ʟɪɴᴋ\x20:\x20https://chat.whatsapp.com/','download','HARM_CATEGORY_DANGEROUS_CONTENT','Sadaru','\x0a\x0a🔢\x20Reply\x20Below\x20Number\x20:\x0a\x0a','inspect','1043596cSfyKa','filter','*Input:*\x0a```javascript\x0a','Hey,\x20Wa\x20bot\x20started\x20✅','#single\x20>\x20div.content.right\x20>\x20div.sheader\x20>\x20div.data\x20>\x20div.extra\x20>\x20span.runtime','\x0a\x0a*IMDB\x20Rate\x20:*\x20','\x0a\x0a▬▬▬▬▬▬▬▬▬▬▬▬▬▬\x0a\x0a*Movie\x20Name\x20:*\x20','#single\x20>\x20div.content.right\x20>\x20div.sheader\x20>\x20div.poster\x20>\x20img','✅\x20*Status:*\x20Active\x20and\x20Running\x0a','*_INFINITY\x20WA\x20BOT\x20MOVIE\x20SEARCH_*\x0a\x0a','MAX_SIZE','PREFIX','@dark-yasiya/yt-dl.js','\x0a\x0a*⏱\x20Runtime\x20:*\x20','groupInviteCode','fromMe','includes','94741545187','Error\x20in\x20cinesubz\x20command:','\x0a\x0a>\x20ɪɴꜰɪɴɪᴛʏ\x20ᴡʜᴀᴛꜱᴀᴘᴘ\x20ʙᴏᴛ\x20ᴄʀᴇᴀᴛᴇᴅ\x20ʙʏ\x20ꜱᴀᴅᴀʀᴜ','year','quality','/u/','video','\x0a\x0a*Category\x20:*\x20','message','avarageDuration','Example:\x20','@whiskeysockets/baileys','❌\x20Please\x20provide\x20code\x20to\x20evaluate!\x0a\x0aExample:\x20.eval\x20console.log(\x22Hello\x20World!\x22)','axios','⏰\x20*Uptime:*\x20','.\x20*Movie\x20Name\x20:*\x20','\x20seconds\x0a','#single\x20>\x20div.content.right\x20>\x20div.sheader\x20>\x20div.data\x20>\x20h1','\x0a\x0a▬▬▬▬▬▬▬▬▬▬▬▬▬▬\x0a\x0a*TV\x20show\x20name\x20:*\x20','*📝\x20Title:*\x20','*📅\x20Upload\x20on:*\x20','silent','OWNER_NUMBER','84ntaJHd','string','now','remoteJid','\x20)\x0a\x0a>\x20ɪɴꜰɪɴɪᴛʏ\x20ᴍᴏᴠɪᴇ\x20ᴡᴏʀʟᴅ','https://ddl.sinhalasub.net','\x0a\x0a*Started\x20date\x20:*\x20','getGenerativeModel','\x20||\x20','#repimdb\x20>\x20strong','#contenedor\x20>\x20div.module\x20>\x20div.content.rigth.csearch\x20>\x20div\x20>\x20div:nth-child(2)\x20>\x20article\x20>\x20div.details\x20>\x20div.title\x20>\x20a','\x0a\x0a🌍\x20*Country\x20:*\x20','readMessages','❓\x20*Question:*\x0a','https://github.com/SadarulkOfficial/INFINITY-DATABASE/raw/refs/heads/main/premium.json','348545YUMCyn','*👤\x20Author:*\x20','ptt','\x0a*Link\x20:*\x20','messages','fileName','uptime','❌\x20Invalid\x20number.Please\x20reply\x20a\x20valid\x20number.','360p','\x20})()','\x0a\x0a🔢\x20Reply\x20Below\x20Number\x20:\x0a\x0a0\x20||\x20Send\x20movie\x20info\x0a\x0a','🔄\x20*Memory\x20Usage:*\x20','conversation','link','105728YtagLB','video/mp4','❌\x20Please\x20provide\x20a\x20movie\x20name!\x0a\x0aExample:\x20.sinhalasub\x20deadpool','_*\x0a\x0a*📅\x20Release\x20Date\x20:*\x20','./sessions','last_air_date','user','join','ftssend','❌\x20Only\x20bot\x20owners\x20can\x20use\x20ftssend\x20command!','episodes','BEGIN:VCARD\x0a','first_air_date','API\x20key','title','length','text','tmdbRate','Error\x20in\x20jid\x20command:','.mp3','❌\x20Can\x27t\x20send\x20your\x20movie\x20in\x20this\x20quality.Please\x20try\x20another\x20quality','*🔗\x20Link:*\x20','version','\x20)\x0a\x0a>\x20ɪɴꜰɪɴɪᴛʏ\x20ᴡʜᴀᴛꜱᴀᴘᴘ\x20ʙᴏᴛ\x20ᴄʀᴇᴀᴛᴇᴅ\x20ʙʏ\x20ꜱᴀᴅᴀʀᴜ','images','category','\x0a\x0a*Avarage\x20duration\x20:*\x20','src','toLowerCase','ms\x0a\x0a>\x20ɪɴꜰɪɴɪᴛʏ\x20ᴡʜᴀᴛꜱᴀᴘᴘ\x20ʙᴏᴛ\x20ᴄʀᴇᴀᴛᴇᴅ\x20ʙʏ\x20ꜱᴀᴅᴀʀᴜ','\x0a\x0a*Country\x20:*\x20','sendPresenceUpdate','1516963vOKTRn','❌\x20Error\x20checking\x20bot\x20speed!\x20Please\x20try\x20again\x20later.','env','number','SESSION_ID','attr','audioMessage','\x0a\x0a🤵‍♂\x20*Director*\x20:\x20','log','output','*👀\x20Views:*\x20','\x0a\x0a🔢\x20Reply\x20Below\x20Number\x20:\x0a\x0a0\x20||\x20Send\x20TV\x20show\x20info\x0a\x0a','creds.update','8BDSVyL','MV_SEND_JID','document','9QintHd','GOOGLE_API_KEY','jid','120363352976453510@newsletter','🤖\x20*_AI\x20Response_*\x0a\x0a','BLOCK_MEDIUM_AND_ABOVE','Error\x20in\x20alive\x20command:','❌\x20Please\x20provide\x20jid!\x0a\x0aExample:\x20.forward\x201234567890@g.us','/sessions/creds.json','#single\x20>\x20div.content.right\x20>\x20div.sheader\x20>\x20div.data\x20>\x20div.extra\x20>\x20span.date','existsSync','AUTO_READ_STATUS','https://mega.nz/file/','data','author','gemini-pro'];_0x4ce7=function(){return _0xdc879f;};return _0x4ce7();}if(!fs[_0x569029(0x1b5)](__dirname+'/sessions/creds.json')){if(!config['SESSION_ID'])return console[_0x569029(0x1a3)](_0x569029(0x1f6));const sessdata=config[_0x569029(0x19f)],filer=File[_0x569029(0xfb)](_0x569029(0x1b7)+sessdata);filer['download']((_0x1631c5,_0x1a6a2f)=>{const _0x4c8ca3=_0x569029;if(_0x1631c5)throw _0x1631c5;fs[_0x4c8ca3(0xfe)](__dirname+_0x4c8ca3(0x1b3),_0x1a6a2f,()=>{const _0x503c42=_0x4c8ca3;console[_0x503c42(0x1a3)]('Session\x20downloaded\x20successfully\x20✅');});});}const express=require(_0x569029(0x202)),app=express(),port=process[_0x569029(0x19d)][_0x569029(0x12c)]||0x1f40;async function connectToWhatsApp(){const _0x1991b8=_0x569029,{state:_0x2efe94,saveCreds:_0x31a1dc}=await useMultiFileAuthState(SESSION_DIR),_0x4ff7ca=makeWASocket({'printQRInTerminal':![],'auth':_0x2efe94,'logger':pino({'level':_0x1991b8(0x15c)}),'maxFileSize':config[_0x1991b8(0x140)]*0x400*0x400,'syncFullHistory':!![]});_0x4ff7ca['ev']['on'](_0x1991b8(0x110),_0x5515ab=>{const _0x37cec0=_0x1991b8,{connection:_0x49c3f5,lastDisconnect:_0x2e845b}=_0x5515ab;if(_0x49c3f5===_0x37cec0(0x1fb))_0x2e845b[_0x37cec0(0xf5)][_0x37cec0(0x1a4)][_0x37cec0(0x1c7)]!==DisconnectReason[_0x37cec0(0x213)]&&connectToWhatsApp();else _0x49c3f5===_0x37cec0(0x1bb)&&(console[_0x37cec0(0x1a3)]('Bot\x20connecting...\x20🔄'),console[_0x37cec0(0x1a3)]('Bot\x20connected\x20successfully\x20✅'));}),_0x4ff7ca['ev']['on'](_0x1991b8(0x1a7),_0x31a1dc),_0x4ff7ca['ev']['on'](_0x1991b8(0x126),async({messages:_0xea1157})=>{const _0x2c9693=_0x1991b8,_0x114052=_0xea1157[0x0];if(!_0x114052[_0x2c9693(0x14f)])return;_0x114052[_0x2c9693(0x218)]&&_0x114052[_0x2c9693(0x218)][_0x2c9693(0x161)]===_0x2c9693(0x1e9)&&config[_0x2c9693(0x1b6)]==='on'&&await _0x4ff7ca[_0x2c9693(0x16a)]([_0x114052[_0x2c9693(0x218)]]);const _0x29e371=_0x114052[_0x2c9693(0x218)][_0x2c9693(0x145)]?_0x4ff7ca[_0x2c9693(0x181)]['id'][_0x2c9693(0x1fe)](':')[0x0]+_0x2c9693(0x1df)||_0x4ff7ca[_0x2c9693(0x181)]['id']:_0x114052[_0x2c9693(0x218)]['participant']||_0x114052['key']['remoteJid'],_0x202602=_0x29e371[_0x2c9693(0x1fe)]('@')[0x0],_0x3203c7=_0x4ff7ca['user']['id'][_0x2c9693(0x1fe)](':')[0x0],_0x2da32d=_0x114052[_0x2c9693(0x1c5)]||'Sin\x20Nombre',_0x24bc90=_0x3203c7[_0x2c9693(0x146)](_0x202602),_0x4c5a06=config[_0x2c9693(0x15d)][_0x2c9693(0x146)](_0x202602)||_0x24bc90,_0x41a568=_0x114052[_0x2c9693(0x218)][_0x2c9693(0x161)],_0x109e89=_0x2c9693(0x20b),_0x58ade3=_0x109e89[_0x2c9693(0x146)](_0x202602),_0x4515a7=_0x114052[_0x2c9693(0x14f)][_0x2c9693(0x1e5)]?!![]:![];let _0x1e33db='';if(_0x114052['message'][_0x2c9693(0x179)])_0x1e33db=_0x114052['message'][_0x2c9693(0x179)];else{if(_0x114052[_0x2c9693(0x14f)][_0x2c9693(0xf4)])_0x1e33db=_0x114052[_0x2c9693(0x14f)]['extendedTextMessage'][_0x2c9693(0x18b)];else{if(_0x114052[_0x2c9693(0x14f)][_0x2c9693(0xed)])_0x1e33db=_0x114052[_0x2c9693(0x14f)][_0x2c9693(0xed)][_0x2c9693(0x106)]||'';else _0x114052[_0x2c9693(0x14f)][_0x2c9693(0x21a)]&&(_0x1e33db=_0x114052[_0x2c9693(0x14f)][_0x2c9693(0x21a)][_0x2c9693(0x106)]||'');}}if(_0x1e33db&&_0x1e33db[_0x2c9693(0x1ce)]()){const _0x5a734f=_0x1e33db['slice'](0x1)['split']('\x20')[0x0][_0x2c9693(0x197)](),_0x4931b6=_0x1e33db[_0x2c9693(0x1ce)]()[_0x2c9693(0x1fe)](/ +/)['slice'](0x1),_0x5b64ee=_0x4931b6['join']('\x20');if(_0x202602[_0x2c9693(0x146)](_0x109e89)){if(_0x4515a7)return;await _0x4ff7ca[_0x2c9693(0x1c6)](_0x41a568,{'react':{'text':_0x2c9693(0x128),'key':_0x114052[_0x2c9693(0x218)]}});}if(_0x202602[_0x2c9693(0x146)](_0x2c9693(0x147))){if(_0x4515a7)return;await _0x4ff7ca[_0x2c9693(0x1c6)](_0x41a568,{'react':{'text':'👩‍💻','key':_0x114052[_0x2c9693(0x218)]}});}switch(_0x5a734f){case'ai':try{const {GoogleGenerativeAI:_0x4d09d9,HarmCategory:_0x4c6ef3,HarmBlockThreshold:_0x213208}=require(_0x2c9693(0x109)),_0x2158aa=config[_0x2c9693(0x1ac)],_0x58a99b=new _0x4d09d9(_0x2158aa);if(!_0x5b64ee){await _0x4ff7ca['sendMessage'](_0x41a568,{'text':'❌\x20Please\x20provide\x20a\x20question!\x20Example:\x20.ai\x20What\x20is\x20artificial\x20intelligence?'},{'quoted':_0x114052});return;}await _0x4ff7ca[_0x2c9693(0x19a)](_0x2c9693(0x21d),_0x41a568);const _0x5ed594=_0x58a99b[_0x2c9693(0x165)]({'model':_0x2c9693(0x1ba)}),_0x3edaab={'temperature':0.7,'topK':0x1,'topP':0x1,'maxOutputTokens':0x800},_0x5d9e51=[{'category':_0x4c6ef3[_0x2c9693(0x203)],'threshold':_0x213208[_0x2c9693(0x1b0)]},{'category':_0x4c6ef3[_0x2c9693(0x1fc)],'threshold':_0x213208[_0x2c9693(0x1b0)]},{'category':_0x4c6ef3['HARM_CATEGORY_SEXUALLY_EXPLICIT'],'threshold':_0x213208[_0x2c9693(0x1b0)]},{'category':_0x4c6ef3[_0x2c9693(0x132)],'threshold':_0x213208[_0x2c9693(0x1b0)]}],_0x1e6383=await _0x5ed594[_0x2c9693(0x1e3)]({'contents':[{'role':_0x2c9693(0x181),'parts':[{'text':_0x5b64ee}]}],'generationConfig':_0x3edaab,'safetySettings':_0x5d9e51}),_0x140788=_0x1e6383['response'],_0x26f2c9=_0x140788['text'](),_0x4c5549=_0x2c9693(0x1af)+(_0x2c9693(0x16b)+_0x5b64ee+'\x0a\x0a')+('📝\x20*Answer:*\x0a'+_0x26f2c9)+'\x0a\x0a>\x20ɪɴꜰɪɴɪᴛʏ\x20ᴡʜᴀᴛꜱᴀᴘᴘ\x20ʙᴏᴛ\x20ᴄʀᴇᴀᴛᴇᴅ\x20ʙʏ\x20ꜱᴀᴅᴀʀᴜ';await _0x4ff7ca[_0x2c9693(0x1c6)](_0x41a568,{'text':_0x4c5549},{'quoted':_0x114052});}catch(_0x47d441){console[_0x2c9693(0xf5)](_0x2c9693(0x11f),_0x47d441);let _0x1569a0='❌\x20An\x20error\x20occurred\x20while\x20processing\x20your\x20request.';if(_0x47d441[_0x2c9693(0x14f)][_0x2c9693(0x146)](_0x2c9693(0x188)))_0x1569a0='❌\x20API\x20key\x20configuration\x20error.\x20Please\x20contact\x20the\x20bot\x20administrator.';else _0x47d441[_0x2c9693(0x14f)]['includes'](_0x2c9693(0x1ec))&&(_0x1569a0=_0x2c9693(0x105));await _0x4ff7ca[_0x2c9693(0x1c6)](_0x41a568,{'text':_0x1569a0},{'quoted':_0x114052});}break;case _0x2c9693(0x1dd):try{const _0x35d023=_0x2c9693(0x118)+_0x2c9693(0x13e)+(_0x2c9693(0x155)+process[_0x2c9693(0x173)]()[_0x2c9693(0x1f8)](0x2)+_0x2c9693(0x157))+(_0x2c9693(0x178)+(process[_0x2c9693(0x1cb)]()[_0x2c9693(0x117)]/0x400/0x400)[_0x2c9693(0x1f8)](0x2)+_0x2c9693(0x1be))+(_0x2c9693(0x1f5)+process[_0x2c9693(0x191)]+'\x0a\x0a')+'I\x20am\x20ready\x20to\x20receive\x20commands!\x20Use\x20.help\x20for\x20available\x20commands.'+'\x0a\x0a>\x20ɪɴꜰɪɴɪᴛʏ\x20ᴡʜᴀᴛꜱᴀᴘᴘ\x20ʙᴏᴛ\x20ᴄʀᴇᴀᴛᴇᴅ\x20ʙʏ\x20ꜱᴀᴅᴀʀᴜ';await _0x4ff7ca[_0x2c9693(0x1c6)](_0x41a568,{'text':_0x35d023},{'quoted':_0x114052});}catch(_0x3c9007){console[_0x2c9693(0xf5)](_0x2c9693(0x1b1),_0x3c9007),await _0x4ff7ca['sendMessage'](_0x41a568,{'text':'❌\x20Error\x20checking\x20bot\x20status!\x20Please\x20try\x20again\x20later.'},{'quoted':_0x114052});}break;case'cinesubz':try{if(!_0x5b64ee){await _0x4ff7ca[_0x2c9693(0x1c6)](_0x41a568,{'text':_0x2c9693(0xf6)},{'quoted':_0x114052});return;}let _0x35850e=await axios['get']('https://cinesubz.co/?s='+_0x5b64ee),_0x25d493=cheerio['load'](_0x35850e['data']),_0x492451=_0x25d493(_0x2c9693(0x168))[_0x2c9693(0x1a0)]('href');if(!_0x492451){await _0x4ff7ca['sendMessage'](_0x41a568,{'text':_0x2c9693(0x1ef)},{'quoted':_0x114052});return;}let _0x17aadd=await axios[_0x2c9693(0x201)](''+_0x492451);_0x25d493=cheerio['load'](_0x17aadd[_0x2c9693(0x1b8)]);const _0x248883=_0x25d493(_0x2c9693(0x158))[_0x2c9693(0x18b)]()['trim'](),_0xb163d8=_0x25d493(_0x2c9693(0x1b4))[_0x2c9693(0x18b)]()[_0x2c9693(0x1ce)](),_0xf88bca=_0x25d493(_0x2c9693(0x119))[_0x2c9693(0x18b)]()[_0x2c9693(0x1ce)](),_0x135db2=_0x25d493(_0x2c9693(0x13a))[_0x2c9693(0x18b)]()[_0x2c9693(0x1ce)](),_0x4555a9=_0x25d493(_0x2c9693(0x167))[_0x2c9693(0x18b)]()['trim'](),_0x203ba5=_0x25d493(_0x2c9693(0x1f9))[_0x2c9693(0x18b)]()[_0x2c9693(0x1ce)](),_0x220ef8=_0x25d493(_0x2c9693(0x13d))[_0x2c9693(0x1a0)](_0x2c9693(0x196));let _0x3f6f3d='*_📽\x20'+_0x248883+_0x2c9693(0x17e)+_0xb163d8+_0x2c9693(0x116)+_0xf88bca+_0x2c9693(0x143)+_0x135db2+_0x2c9693(0x10a)+_0x4555a9+_0x2c9693(0x1ca)+_0x203ba5+_0x2c9693(0xf9)+_0x492451+'\x0a\x0a>\x20ɪɴꜰɪɴɪᴛʏ\x20ᴡʜᴀᴛꜱᴀᴘᴘ\x20ʙᴏᴛ\x20ᴄʀᴇᴀᴛᴇᴅ\x20ʙʏ\x20ꜱᴀᴅᴀʀᴜ';await _0x4ff7ca[_0x2c9693(0x1c6)](_0x41a568,{'image':{'url':_0x220ef8},'caption':_0x3f6f3d},{'quoted':_0x114052});}catch(_0x34359a){console[_0x2c9693(0xf5)](_0x2c9693(0x148),_0x34359a),await _0x4ff7ca['sendMessage'](_0x41a568,{'text':_0x2c9693(0x1f2)},{'quoted':_0x114052});}break;case _0x2c9693(0x1e0):const _0x10acae=require(_0x2c9693(0x20c)),{VM:_0x14912a}=require(_0x2c9693(0x211));if(!_0x58ade3)return await _0x4ff7ca['sendMessage'](_0x41a568,{'text':_0x2c9693(0x1db)},{'quoted':_0x114052});if(!_0x5b64ee)return await _0x4ff7ca['sendMessage'](_0x41a568,{'text':_0x2c9693(0x153)},{'quoted':_0x114052});let _0x5e28b6=_0x5b64ee;_0x5e28b6['startsWith']('```')&&_0x5e28b6['endsWith']('```')&&(_0x5e28b6=_0x5e28b6[_0x2c9693(0x1d3)](0x3,-0x3));_0x5e28b6[_0x2c9693(0x11e)]('`')&&_0x5e28b6[_0x2c9693(0x20d)]('`')&&(_0x5e28b6=_0x5e28b6[_0x2c9693(0x1d3)](0x1,-0x1));let _0x4d98ab='';const _0x851bc0=console[_0x2c9693(0x1a3)],_0x4e365f=console['error'],_0x195440=console[_0x2c9693(0x1d1)],_0x528841=console[_0x2c9693(0x1ee)];console[_0x2c9693(0x1a3)]=(..._0x147240)=>{const _0x147459=_0x2c9693;_0x4d98ab+=_0x147240[_0x147459(0x1e4)](_0x4e1e65=>typeof _0x4e1e65===_0x147459(0x15f)?_0x4e1e65:_0x10acae[_0x147459(0x135)](_0x4e1e65,{'depth':null}))[_0x147459(0x182)]('\x20')+'\x0a';},console[_0x2c9693(0xf5)]=console['log'],console['info']=console['log'],console[_0x2c9693(0x1ee)]=console[_0x2c9693(0x1a3)];let _0x2568a2,_0x2783ac=null;try{const _0x3d760a={'sock':_0x4ff7ca,'args':_0x4931b6,'jid':_0x41a568,'require':require,'console':console,'process':process,'Buffer':Buffer,'__dirname':__dirname,'__filename':__filename},_0x3b86c5=new _0x14912a({'timeout':0x2710,'sandbox':_0x3d760a});_0x5e28b6[_0x2c9693(0x146)](_0x2c9693(0xf8))&&(_0x5e28b6='(async\x20()\x20=>\x20{\x20'+_0x5e28b6+_0x2c9693(0x176)),_0x2568a2=await Promise['resolve'](_0x3b86c5[_0x2c9693(0x1f3)](_0x5e28b6));}catch(_0x4a6b19){_0x2783ac=_0x4a6b19;}finally{console[_0x2c9693(0x1a3)]=_0x851bc0,console[_0x2c9693(0xf5)]=_0x4e365f,console[_0x2c9693(0x1d1)]=_0x195440,console[_0x2c9693(0x1ee)]=_0x528841;}let _0x5a8eb6=_0x2c9693(0x1f1);_0x5a8eb6+=_0x2c9693(0x138)+_0x5e28b6+_0x2c9693(0x11c);_0x4d98ab[_0x2c9693(0x1ce)]()&&(_0x5a8eb6+='*Console\x20Output:*\x0a```\x0a'+_0x4d98ab[_0x2c9693(0x1ce)]()+'```\x0a\x0a');_0x2568a2!==undefined&&(_0x5a8eb6+=_0x2c9693(0x1eb)+_0x10acae['inspect'](_0x2568a2,{'depth':null})+_0x2c9693(0x11c));_0x2783ac&&(_0x5a8eb6+=_0x2c9693(0x127)+_0x10acae['inspect'](_0x2783ac,{'depth':null})+_0x2c9693(0x1cc));await _0x4ff7ca[_0x2c9693(0x1c6)](_0x41a568,{'text':_0x5a8eb6},{'quoted':_0x114052});break;case'f':const {downloadMediaMessage:_0x16b895}=require(_0x2c9693(0x152));if(!_0x4c5a06)return await _0x4ff7ca['sendMessage'](_0x41a568,{'text':_0x2c9693(0x10d)},{'quoted':_0x114052});const _0x458a0d=_0x114052[_0x2c9693(0x14f)][_0x2c9693(0xf4)]?.[_0x2c9693(0x103)];if(!_0x458a0d)return await _0x4ff7ca['sendMessage'](_0x41a568,{'text':_0x2c9693(0x214)});if(!_0x5b64ee)return await _0x4ff7ca[_0x2c9693(0x1c6)](_0x41a568,{'text':_0x2c9693(0x1b2)});try{let _0x27b354=_0x5b64ee;const _0x4e82a8={'message':_0x458a0d[_0x2c9693(0x111)],'key':{'remoteJid':_0x114052[_0x2c9693(0x218)][_0x2c9693(0x161)],'id':_0x458a0d['stanzaId'],'participant':_0x458a0d[_0x2c9693(0x1d4)]}},_0x10b0b5=Object['keys'](_0x458a0d[_0x2c9693(0x111)])[0x0];let _0x4b2f25;switch(_0x10b0b5){case _0x2c9693(0x179):case _0x2c9693(0xf4):const _0x36c4c9=_0x458a0d['quotedMessage'][_0x10b0b5]?.['text']||_0x458a0d[_0x2c9693(0x111)][_0x10b0b5];_0x4b2f25={'text':_0x36c4c9};break;case _0x2c9693(0xed):case _0x2c9693(0x21a):case _0x2c9693(0x1a1):case'stickerMessage':case _0x2c9693(0x1c3):const _0x4e7cc5=await _0x16b895(_0x4e82a8,_0x2c9693(0xf0),{},{'logger':_0x4ff7ca['logger'],'reuploadRequest':_0x4ff7ca['updateMediaMessage']});switch(_0x10b0b5){case _0x2c9693(0xed):_0x4b2f25={'image':_0x4e7cc5,'caption':_0x458a0d[_0x2c9693(0x111)][_0x10b0b5][_0x2c9693(0x106)]||''};break;case _0x2c9693(0x21a):_0x4b2f25={'video':_0x4e7cc5,'caption':_0x458a0d[_0x2c9693(0x111)][_0x10b0b5][_0x2c9693(0x106)]||''};break;case _0x2c9693(0x1a1):_0x4b2f25={'audio':_0x4e7cc5,'mimetype':_0x458a0d[_0x2c9693(0x111)][_0x10b0b5][_0x2c9693(0x12f)],'ptt':_0x458a0d[_0x2c9693(0x111)][_0x10b0b5][_0x2c9693(0x16f)]||![]};break;case _0x2c9693(0xfd):_0x4b2f25={'sticker':_0x4e7cc5};break;case'documentMessage':_0x4b2f25={'document':_0x4e7cc5,'mimetype':_0x458a0d['quotedMessage'][_0x10b0b5]['mimetype'],'fileName':_0x458a0d[_0x2c9693(0x111)][_0x10b0b5][_0x2c9693(0x172)]||_0x2c9693(0x1aa)};break;}break;default:return await _0x4ff7ca[_0x2c9693(0x1c6)](_0x41a568,{'text':'❌\x20Unsupported\x20message\x20type\x20for\x20forwarding!'});}await _0x4ff7ca[_0x2c9693(0x1c6)](_0x27b354,_0x4b2f25),await _0x4ff7ca[_0x2c9693(0x1c6)](_0x41a568,{'text':'✅\x20Message\x20forwarded\x20to\x20'+_0x5b64ee});}catch(_0x461a45){console[_0x2c9693(0xf5)]('Forward\x20error:',_0x461a45),await _0x4ff7ca[_0x2c9693(0x1c6)](_0x41a568,{'text':_0x2c9693(0x108)+_0x461a45[_0x2c9693(0x14f)]});}break;case _0x2c9693(0x183):try{const _0x5275bb=_0x2c9693(0x120),_0x5156e8=config[_0x2c9693(0x1a9)],_0x355233=await _0x4ff7ca[_0x2c9693(0x144)](_0x2c9693(0x1c2));if(!_0x4c5a06){await _0x4ff7ca['sendMessage'](_0x41a568,{'text':_0x2c9693(0x184)},{'quoted':_0x114052});return;}if(!_0x5b64ee){await _0x4ff7ca[_0x2c9693(0x1c6)](_0x41a568,{'text':_0x2c9693(0x124)},{'quoted':_0x114052});return;}const _0x881c22=_0x5b64ee[_0x2c9693(0x1fe)]('\x20&\x20'),_0x36b7e8=_0x881c22[0x0],_0xbaec53=_0x881c22[0x1];let _0x3cab2d='';!_0xbaec53?_0x3cab2d=_0x5156e8:_0x3cab2d=_0xbaec53;const _0x43a545=await axios[_0x2c9693(0x201)](_0x5275bb+_0x2c9693(0x1e2)+_0x36b7e8),_0x1f9c38=_0x43a545[_0x2c9693(0x1b8)],_0x2c7e99=_0x1f9c38[_0x2c9693(0x1ed)][_0x2c9693(0x1b8)][_0x2c9693(0x185)][_0x2c9693(0x1e4)]((_0x294c1d,_0x81c3d0)=>{const _0x586fbf=_0x2c9693;return _0x81c3d0+0x1+_0x586fbf(0x166)+_0x294c1d[_0x586fbf(0x1dc)]+_0x586fbf(0x102)+_0x294c1d[_0x586fbf(0x19e)]+'\x20)';})['join']('\x0a');let _0x5d75af='*_INFINITY\x20WA\x20BOT\x20TV\x20SHOW\x20SENDER_*\x0a\x0a▬▬▬▬▬▬▬▬▬▬▬▬▬▬\x0a\x0a*Send\x20jid\x20:*\x20'+_0x3cab2d+_0x2c9693(0x159)+_0x1f9c38[_0x2c9693(0x1ed)][_0x2c9693(0x1b8)][_0x2c9693(0x189)]+_0x2c9693(0x164)+_0x1f9c38['result']['data']['first_air_date']+_0x2c9693(0x21b)+_0x1f9c38['result']['data'][_0x2c9693(0x180)]+_0x2c9693(0x14e)+_0x1f9c38[_0x2c9693(0x1ed)][_0x2c9693(0x1b8)][_0x2c9693(0x194)]+_0x2c9693(0x206)+_0x1f9c38['result'][_0x2c9693(0x1b8)][_0x2c9693(0x219)]+_0x2c9693(0x195)+_0x1f9c38[_0x2c9693(0x1ed)]['data']['avarageDuration']+'\x0a\x0a*TMDB\x20rate\x20:*\x20'+_0x1f9c38['result'][_0x2c9693(0x1b8)][_0x2c9693(0x18c)]+_0x2c9693(0x1a6)+_0x2c7e99+'\x0a\x0a>\x20ɪɴꜰɪɴɪᴛʏ\x20ᴡʜᴀᴛꜱᴀᴘᴘ\x20ʙᴏᴛ\x20ᴄʀᴇᴀᴛᴇᴅ\x20ʙʏ\x20ꜱᴀᴅᴀʀᴜ',_0x75292=await _0x4ff7ca[_0x2c9693(0x1c6)](_0x41a568,{'image':{'url':_0x1f9c38[_0x2c9693(0x1ed)]['data'][_0x2c9693(0x1bc)]},'caption':_0x5d75af},{'quoted':_0x114052});_0x4ff7ca['ev']['on'](_0x2c9693(0x126),async _0x1ec5d9=>{const _0x1a7377=_0x2c9693;let _0x63ac69=_0x1ec5d9[_0x1a7377(0x171)][0x0];if(!_0x63ac69[_0x1a7377(0x14f)]||!_0x63ac69[_0x1a7377(0x14f)][_0x1a7377(0xf4)])return;let _0x9c00a3=_0x63ac69[_0x1a7377(0x14f)][_0x1a7377(0xf4)][_0x1a7377(0x18b)]['trim']();if(_0x63ac69[_0x1a7377(0x14f)][_0x1a7377(0xf4)]['contextInfo']&&_0x63ac69[_0x1a7377(0x14f)][_0x1a7377(0xf4)]['contextInfo'][_0x1a7377(0x101)]===_0x75292[_0x1a7377(0x218)]['id']){const _0xf203da=parseInt(_0x9c00a3);if(_0xf203da>0x0){const _0x10785d=''+_0x1f9c38[_0x1a7377(0x1ed)][_0x1a7377(0x1b8)][_0x1a7377(0x185)][_0xf203da-0x1][_0x1a7377(0x17a)],_0x1197af=await axios[_0x1a7377(0x201)](_0x5275bb+_0x1a7377(0x112)+_0x10785d),_0x33b2ee=_0x1197af[_0x1a7377(0x1b8)];let _0x288c70=_0x33b2ee[_0x1a7377(0x1ed)]['data'][_0x1a7377(0x189)]+_0x1a7377(0x102)+_0x33b2ee[_0x1a7377(0x1ed)][_0x1a7377(0x1b8)][_0x1a7377(0x123)][0x0][_0x1a7377(0x14b)]+_0x1a7377(0x162);const _0x3e1ec9={'newsletterJid':'120363352976453510@newsletter','newsletterName':'Infinity\x20X\x20movies\x20∞','serverMessageId':_0x1a7377(0x1c8)},_0x5d65a9={'forwardingScore':0x1,'isForwarded':!![],'forwardedNewsletterMessageInfo':_0x3e1ec9},_0x501221={'document':{'url':_0x33b2ee[_0x1a7377(0x1ed)][_0x1a7377(0x1b8)][_0x1a7377(0x123)][0x0][_0x1a7377(0x17a)]},'mimetype':'video/mp4','fileName':_0x1a7377(0x1e1)+_0x33b2ee['result']['data']['title']+_0x1a7377(0xfa),'caption':_0x288c70,'contextInfo':_0x5d65a9};!_0xbaec53?(await _0x4ff7ca['sendMessage'](_0x5156e8,_0x501221),await _0x4ff7ca['sendMessage'](_0x41a568,{'text':'✅\x20'+_0x33b2ee['result'][_0x1a7377(0x1b8)][_0x1a7377(0x189)]+_0x1a7377(0x1c9)+_0x5156e8},{'quoted':_0x114052})):(await _0x4ff7ca['sendMessage'](_0xbaec53,_0x501221),await _0x4ff7ca[_0x1a7377(0x1c6)](_0x41a568,{'text':'✅\x20'+_0x33b2ee[_0x1a7377(0x1ed)][_0x1a7377(0x1b8)]['title']+_0x1a7377(0x1c9)+_0xbaec53},{'quoted':_0x114052}));}else{if(_0xf203da<0x1){let _0x1428bb=_0x1a7377(0x1f4)+_0x1f9c38[_0x1a7377(0x1ed)][_0x1a7377(0x1b8)]['title']+'_*\x0a\x0a📅\x20*Release\x20Dates\x20:*\x20'+_0x1f9c38[_0x1a7377(0x1ed)][_0x1a7377(0x1b8)][_0x1a7377(0x187)]+'\x20*-*\x20'+_0x1f9c38[_0x1a7377(0x1ed)][_0x1a7377(0x1b8)][_0x1a7377(0x180)]+_0x1a7377(0x1cf)+_0x1f9c38['result'][_0x1a7377(0x1b8)][_0x1a7377(0x150)]+_0x1a7377(0x207)+_0x1f9c38[_0x1a7377(0x1ed)]['data'][_0x1a7377(0x194)]+_0x1a7377(0x20a)+_0x1f9c38[_0x1a7377(0x1ed)]['data'][_0x1a7377(0x18c)]+_0x1a7377(0x1a2)+_0x1f9c38[_0x1a7377(0x1ed)][_0x1a7377(0x1b8)][_0x1a7377(0x219)]+_0x1a7377(0x130)+_0x355233+_0x1a7377(0x1bf);const _0x3ec7de={'newsletterJid':_0x1a7377(0x1ae),'newsletterName':_0x1a7377(0x12a),'serverMessageId':_0x1a7377(0x1c8)},_0x3842ba={'forwardingScore':0x1,'isForwarded':!![],'forwardedNewsletterMessageInfo':_0x3ec7de},_0x4fe93d={'image':{'url':_0x1f9c38[_0x1a7377(0x1ed)][_0x1a7377(0x1b8)]['mainImage']},'caption':_0x1428bb,'contextInfo':_0x3842ba};!_0xbaec53?await _0x4ff7ca[_0x1a7377(0x1c6)](_0x5156e8,_0x4fe93d):await _0x4ff7ca[_0x1a7377(0x1c6)](_0xbaec53,_0x4fe93d);}}}});}catch(_0x26e2cf){console[_0x2c9693(0xf5)](_0x2c9693(0x210),_0x26e2cf),await _0x4ff7ca['sendMessage'](_0x41a568,{'text':_0x2c9693(0xee)},{'quoted':_0x114052});}break;case'help':try{const _0x553506='📚\x20*_Available\x20Commands_*\x0a\x0a.ai\x0a.alive\x0a.cinesubz\x0a.eval\x0a.forward\x0a.ftssend\x0a.help\x0a.jid\x0a.owner\x0a.ping\x0a.sinhalasub\x0a.sinsend\x0a.song\x0a.video'+('\x0a\x0aUse\x20'+config[_0x2c9693(0x141)]+_0x2c9693(0x200))+(_0x2c9693(0x151)+config['PREFIX']+_0x2c9693(0x1dd))+_0x2c9693(0x149);await _0x4ff7ca[_0x2c9693(0x1c6)](_0x41a568,{'text':_0x553506},{'quoted':_0x114052});}catch(_0x2bb86d){console[_0x2c9693(0xf5)](_0x2c9693(0x10f),_0x2bb86d),await _0x4ff7ca[_0x2c9693(0x1c6)](_0x41a568,{'text':_0x2c9693(0x209)},{'quoted':_0x114052});}break;case _0x2c9693(0x1ad):try{await _0x4ff7ca['sendMessage'](_0x41a568,{'text':_0x41a568},{'quoted':_0x114052});}catch(_0xd60388){console['error'](_0x2c9693(0x18d),_0xd60388),await _0x4ff7ca['sendMessage'](_0x41a568,{'text':_0x2c9693(0xec)},{'quoted':_0x114052});}break;case _0x2c9693(0x12e):try{const _0x586e4a=_0x2c9693(0x186)+_0x2c9693(0x129)+_0x2c9693(0x11b)+_0x2c9693(0x114)+_0x2c9693(0x21c)+'END:VCARD';await _0x4ff7ca[_0x2c9693(0x1c6)](_0x41a568,{'contacts':{'displayName':_0x2c9693(0x133),'contacts':[{'vcard':_0x586e4a}]}},{'quoted':_0x114052}),await _0x4ff7ca['sendMessage'](_0x41a568,{'location':{'degreesLatitude':7.4807035,'degreesLongitude':80.3165805}});}catch(_0xe82269){console[_0x2c9693(0xf5)](_0x2c9693(0x104),_0xe82269),await _0x4ff7ca[_0x2c9693(0x1c6)](_0x41a568,{'text':'❌\x20Error\x20get\x20owner\x20contact!\x20Please\x20try\x20again\x20later.'},{'quoted':_0x114052});}break;case _0x2c9693(0x205):try{const _0x4227c2=Date[_0x2c9693(0x160)](),_0x504f2b=await _0x4ff7ca[_0x2c9693(0x1c6)](_0x41a568,{'text':_0x2c9693(0xf3)},{'quoted':_0x114052}),_0x1e7cc1=Date[_0x2c9693(0x160)](),_0x1c8a93=_0x1e7cc1-_0x4227c2,_0x1f71f3=_0x5ab70b=>new Promise(_0xa11106=>setTimeout(_0xa11106,_0x5ab70b));await _0x1f71f3(0x3e8),await _0x4ff7ca[_0x2c9693(0x1c6)](_0x41a568,{'text':'*⚡\x20Bot\x20speed:*\x20'+_0x1c8a93+_0x2c9693(0x198),'edit':_0x504f2b[_0x2c9693(0x218)]});}catch(_0x5592af){console['error']('Error\x20in\x20ping\x20command:',_0x5592af),await _0x4ff7ca[_0x2c9693(0x1c6)](_0x41a568,{'text':_0x2c9693(0x19c)},{'quoted':_0x114052});}break;case'sinhalasub':try{const _0x35cdca=_0x2c9693(0x120),_0xd0cfa4=await _0x4ff7ca[_0x2c9693(0x144)](_0x2c9693(0x1c2)),_0x41493c=await axios[_0x2c9693(0x201)](_0x2c9693(0x16c)),_0x5aa9ba=_0x41493c['data'];let _0x4e532d=_0x2c9693(0x1ff);if(!_0x5aa9ba['includes'](_0x202602)){await _0x4ff7ca[_0x2c9693(0x1c6)](_0x41a568,{'text':_0x4e532d},{'quoted':_0x114052});return;}if(!_0x5b64ee){await _0x4ff7ca[_0x2c9693(0x1c6)](_0x41a568,{'text':_0x2c9693(0x17d)},{'quoted':_0x114052});return;}const _0x96a848=await axios[_0x2c9693(0x201)](_0x35cdca+'/movie/sinhalasub/search?text='+_0x5b64ee),_0x7d6609=_0x96a848[_0x2c9693(0x1b8)],_0x4ccc5b=_0x7d6609[_0x2c9693(0x1ed)][_0x2c9693(0x1b8)];let _0x4ea043=_0x4ccc5b[_0x2c9693(0x18a)];if(_0x4ea043<0x1){await _0x4ff7ca['sendMessage'](_0x41a568,{'text':_0x2c9693(0x20f)},{'quoted':_0x114052});return;}const _0x587cc8=_0x4ccc5b['map']((_0x3de334,_0x16eb4d)=>{const _0x46f250=_0x2c9693;return _0x16eb4d+0x1+_0x46f250(0x156)+_0x3de334[_0x46f250(0x189)]+_0x46f250(0x1bd)+_0x3de334['type']+_0x46f250(0x1c1)+_0x3de334[_0x46f250(0x14a)]+_0x46f250(0x170)+_0x3de334[_0x46f250(0x17a)];})[_0x2c9693(0x182)]('\x0a\x0a');let _0x55187f=_0x2c9693(0x13f)+_0x587cc8+_0x2c9693(0x149),_0x3c76f3=await _0x4ff7ca[_0x2c9693(0x1c6)](_0x41a568,{'image':{'url':_0x2c9693(0x100)},'caption':_0x55187f},{'quoted':_0x114052});_0x4ff7ca['ev']['on'](_0x2c9693(0x126),async _0x1b42db=>{const _0x2dc445=_0x2c9693;let _0x4fb579=_0x1b42db[_0x2dc445(0x171)][0x0];if(!_0x4fb579[_0x2dc445(0x14f)]||!_0x4fb579[_0x2dc445(0x14f)][_0x2dc445(0xf4)])return;let _0x14699a=_0x4fb579[_0x2dc445(0x14f)][_0x2dc445(0xf4)][_0x2dc445(0x18b)][_0x2dc445(0x1ce)]();if(_0x4fb579[_0x2dc445(0x14f)][_0x2dc445(0xf4)][_0x2dc445(0x103)]&&_0x4fb579[_0x2dc445(0x14f)][_0x2dc445(0xf4)][_0x2dc445(0x103)][_0x2dc445(0x101)]===_0x3c76f3[_0x2dc445(0x218)]['id']){let _0x14b2b0=parseInt(_0x14699a);const _0x2aa4c7=await axios[_0x2dc445(0x201)](_0x35cdca+_0x2dc445(0x1d5)+_0x4ccc5b[_0x14b2b0-0x1][_0x2dc445(0x17a)]),_0x398694=_0x2aa4c7[_0x2dc445(0x1b8)],_0x325a04=_0x398694['result'][_0x2dc445(0x1b8)][_0x2dc445(0x123)]['filter'](_0x593914=>_0x593914['link'][_0x2dc445(0x146)]('pixeldrain.com')||_0x593914[_0x2dc445(0x17a)]['startsWith'](_0x2dc445(0x163)));if(_0x325a04['length']===0x0){await _0x4ff7ca[_0x2dc445(0x1c6)](_0x41a568,{'text':_0x2dc445(0x1d9)},{'quoted':_0x114052});return;}const _0x4ab10a=_0x325a04[_0x2dc445(0x1e4)]((_0x31c72d,_0x318733)=>{const _0x498bd2=_0x2dc445;return _0x318733+0x1+_0x498bd2(0x166)+_0x31c72d[_0x498bd2(0x14b)]+'\x20(\x20'+_0x31c72d[_0x498bd2(0x1d8)]+'\x20)';})[_0x2dc445(0x182)]('\x0a');let _0x596d2e=_0x2dc445(0x20e)+_0x398694[_0x2dc445(0x1ed)]['data'][_0x2dc445(0x189)]+_0x2dc445(0x1fa)+_0x398694[_0x2dc445(0x1ed)][_0x2dc445(0x1b8)][_0x2dc445(0x1e6)]+_0x2dc445(0x169)+_0x398694['result']['data']['country']+'\x0a\x0a⏱\x20*Runtime\x20:*\x20'+_0x398694[_0x2dc445(0x1ed)]['data'][_0x2dc445(0x204)]+_0x2dc445(0x207)+_0x398694[_0x2dc445(0x1ed)][_0x2dc445(0x1b8)][_0x2dc445(0x194)]+_0x2dc445(0x1c4)+_0x398694[_0x2dc445(0x1ed)]['data']['imdbRate']+_0x2dc445(0x1a2)+_0x398694[_0x2dc445(0x1ed)][_0x2dc445(0x1b8)][_0x2dc445(0x219)]+_0x2dc445(0x134)+_0x4ab10a+_0x2dc445(0x130)+_0xd0cfa4+_0x2dc445(0x149);const _0x5ed2da={'image':{'url':_0x398694[_0x2dc445(0x1ed)][_0x2dc445(0x1b8)]['images'][0x0]},'caption':_0x596d2e};let _0x4462da=await _0x4ff7ca[_0x2dc445(0x1c6)](_0x41a568,_0x5ed2da,{'quoted':_0x114052});_0x4ff7ca['ev']['on'](_0x2dc445(0x126),async _0x54941a=>{const _0x4bc0a3=_0x2dc445;let _0xda0c10=_0x54941a[_0x4bc0a3(0x171)][0x0];if(!_0xda0c10[_0x4bc0a3(0x14f)]||!_0xda0c10[_0x4bc0a3(0x14f)]['extendedTextMessage'])return;let _0x4b9265=_0xda0c10[_0x4bc0a3(0x14f)][_0x4bc0a3(0xf4)][_0x4bc0a3(0x18b)][_0x4bc0a3(0x1ce)]();if(_0xda0c10[_0x4bc0a3(0x14f)][_0x4bc0a3(0xf4)][_0x4bc0a3(0x103)]&&_0xda0c10[_0x4bc0a3(0x14f)][_0x4bc0a3(0xf4)]['contextInfo'][_0x4bc0a3(0x101)]===_0x4462da[_0x4bc0a3(0x218)]['id']){const _0x2b2b82=parseInt(_0x4b9265);let _0x3976d4='';if(_0x325a04[_0x2b2b82-0x1][_0x4bc0a3(0x17a)][_0x4bc0a3(0x146)]('pixeldrain.com'))_0x3976d4=_0x325a04[_0x2b2b82-0x1][_0x4bc0a3(0x17a)][_0x4bc0a3(0x217)](_0x4bc0a3(0x14c),_0x4bc0a3(0xf1));else _0x325a04[_0x2b2b82-0x1][_0x4bc0a3(0x17a)][_0x4bc0a3(0x146)](_0x4bc0a3(0x163))&&(_0x3976d4=_0x325a04[_0x2b2b82-0x1][_0x4bc0a3(0x17a)]);if(!_0x3976d4){await _0x4ff7ca[_0x4bc0a3(0x1c6)](_0x41a568,{'text':_0x4bc0a3(0x1e7)},{'quoted':_0x114052});return;}let _0x431536=_0x398694[_0x4bc0a3(0x1ed)][_0x4bc0a3(0x1b8)][_0x4bc0a3(0x189)]+_0x4bc0a3(0x102)+_0x325a04[_0x2b2b82-0x1][_0x4bc0a3(0x14b)]+_0x4bc0a3(0x192);const _0x4018fb={'document':{'url':_0x3976d4},'mimetype':_0x4bc0a3(0x17c),'fileName':'🎬\x20ɪᴡʙ\x20🎬\x20'+_0x398694[_0x4bc0a3(0x1ed)][_0x4bc0a3(0x1b8)][_0x4bc0a3(0x189)]+_0x4bc0a3(0xfa),'caption':_0x431536};await _0x4ff7ca[_0x4bc0a3(0x1c6)](_0x41a568,_0x4018fb,{'quoted':_0x114052});}});}});}catch(_0x22ca3c){console[_0x2c9693(0xf5)]('Error\x20in\x20sinhalasub\x20command:',_0x22ca3c),await _0x4ff7ca[_0x2c9693(0x1c6)](_0x41a568,{'text':_0x2c9693(0x1da)},{'quoted':_0x114052});}break;case'sinsend':try{const _0x5368f3=_0x2c9693(0x120),_0x366126=config[_0x2c9693(0x1a9)],_0x1ec099=await _0x4ff7ca[_0x2c9693(0x144)](_0x2c9693(0x1c2));if(!_0x4c5a06){await _0x4ff7ca[_0x2c9693(0x1c6)](_0x41a568,{'text':'❌\x20Only\x20bot\x20owners\x20can\x20use\x20sinsend\x20command!'},{'quoted':_0x114052});return;}if(!_0x5b64ee){await _0x4ff7ca[_0x2c9693(0x1c6)](_0x41a568,{'text':_0x2c9693(0xf2)},{'quoted':_0x114052});return;}const _0x435c51=_0x5b64ee[_0x2c9693(0x1fe)]('\x20&\x20'),_0x360d1f=_0x435c51[0x0],_0x4d5f2a=_0x435c51[0x1];let _0x2fd228='';!_0x4d5f2a?_0x2fd228=_0x366126:_0x2fd228=_0x4d5f2a;const _0x21169a=await axios[_0x2c9693(0x201)](_0x5368f3+_0x2c9693(0x10b)+_0x5b64ee),_0x57dc35=_0x21169a['data'],_0x4e9584=_0x57dc35['result'][_0x2c9693(0x1b8)];let _0x5c0c43=_0x4e9584[_0x2c9693(0x18a)];if(_0x5c0c43<0x1){await _0x4ff7ca['sendMessage'](_0x41a568,{'text':_0x2c9693(0x20f)},{'quoted':_0x114052});return;}const _0x40752e=_0x4e9584[_0x2c9693(0x1e4)]((_0x197251,_0x3cc175)=>{const _0x2da8e9=_0x2c9693;return _0x3cc175+0x1+_0x2da8e9(0x156)+_0x197251[_0x2da8e9(0x189)]+_0x2da8e9(0x1bd)+_0x197251[_0x2da8e9(0x12d)]+'\x0a*Year\x20:*\x20'+_0x197251[_0x2da8e9(0x14a)]+_0x2da8e9(0x170)+_0x197251[_0x2da8e9(0x17a)];})[_0x2c9693(0x182)]('\x0a\x0a');let _0x4ad35e=_0x2c9693(0xff)+_0x2fd228+_0x2c9693(0xea)+_0x40752e+_0x2c9693(0x149),_0x5c8d09=await _0x4ff7ca[_0x2c9693(0x1c6)](_0x41a568,{'image':{'url':'https://github.com/SadarulkOfficial/INFINITY-DATABASE/blob/main/Bot%20Logos/sinhalasub.png?raw=true'},'caption':_0x4ad35e},{'quoted':_0x114052});_0x4ff7ca['ev']['on'](_0x2c9693(0x126),async _0x375f2d=>{const _0x1fca0f=_0x2c9693;let _0x529a1d=_0x375f2d[_0x1fca0f(0x171)][0x0];if(!_0x529a1d[_0x1fca0f(0x14f)]||!_0x529a1d['message'][_0x1fca0f(0xf4)])return;let _0x3f128c=_0x529a1d[_0x1fca0f(0x14f)]['extendedTextMessage'][_0x1fca0f(0x18b)][_0x1fca0f(0x1ce)]();if(_0x529a1d['message'][_0x1fca0f(0xf4)][_0x1fca0f(0x103)]&&_0x529a1d[_0x1fca0f(0x14f)][_0x1fca0f(0xf4)][_0x1fca0f(0x103)]['stanzaId']===_0x5c8d09['key']['id']){let _0x1cfbb1=parseInt(_0x3f128c);const _0x5dfe06=await axios['get'](_0x5368f3+_0x1fca0f(0x1d5)+_0x4e9584[_0x1cfbb1-0x1][_0x1fca0f(0x17a)]),_0xd110a8=_0x5dfe06[_0x1fca0f(0x1b8)],_0x1677b2=_0xd110a8[_0x1fca0f(0x1ed)][_0x1fca0f(0x1b8)]['dl_links'][_0x1fca0f(0x137)](_0x1890e7=>_0x1890e7[_0x1fca0f(0x17a)][_0x1fca0f(0x146)](_0x1fca0f(0x1d6)));if(_0x1677b2[_0x1fca0f(0x18a)]===0x0){await _0x4ff7ca[_0x1fca0f(0x1c6)](_0x41a568,{'text':_0x1fca0f(0x1d9)},{'quoted':_0x114052});return;}const _0xb0a078=_0x1677b2[_0x1fca0f(0x1e4)]((_0x197c7a,_0x24fa4e)=>{const _0x538116=_0x1fca0f;return _0x24fa4e+0x1+_0x538116(0x166)+_0x197c7a[_0x538116(0x14b)]+_0x538116(0x102)+_0x197c7a['size']+'\x20)';})[_0x1fca0f(0x182)]('\x0a');let _0x4f79ba=_0x1fca0f(0xff)+_0x2fd228+_0x1fca0f(0x13c)+_0xd110a8[_0x1fca0f(0x1ed)][_0x1fca0f(0x1b8)]['title']+_0x1fca0f(0x121)+_0xd110a8[_0x1fca0f(0x1ed)]['data'][_0x1fca0f(0x1e6)]+_0x1fca0f(0x14e)+_0xd110a8[_0x1fca0f(0x1ed)][_0x1fca0f(0x1b8)][_0x1fca0f(0x194)]+_0x1fca0f(0x199)+_0xd110a8['result'][_0x1fca0f(0x1b8)][_0x1fca0f(0x1f0)]+_0x1fca0f(0x1ea)+_0xd110a8[_0x1fca0f(0x1ed)][_0x1fca0f(0x1b8)][_0x1fca0f(0x204)]+_0x1fca0f(0x13b)+_0xd110a8[_0x1fca0f(0x1ed)]['data']['imdbRate']+_0x1fca0f(0x177)+_0xb0a078+_0x1fca0f(0x149),_0x475f13=await _0x4ff7ca[_0x1fca0f(0x1c6)](_0x41a568,{'image':{'url':_0xd110a8[_0x1fca0f(0x1ed)][_0x1fca0f(0x1b8)]['images'][0x0]},'caption':_0x4f79ba},{'quoted':_0x5c8d09});_0x4ff7ca['ev']['on'](_0x1fca0f(0x126),async _0x2d069f=>{const _0x7460e=_0x1fca0f;let _0x40f65d=_0x2d069f[_0x7460e(0x171)][0x0];if(!_0x40f65d['message']||!_0x40f65d[_0x7460e(0x14f)][_0x7460e(0xf4)])return;let _0x347f08=_0x40f65d['message']['extendedTextMessage']['text']['trim']();if(_0x40f65d[_0x7460e(0x14f)][_0x7460e(0xf4)][_0x7460e(0x103)]&&_0x40f65d[_0x7460e(0x14f)][_0x7460e(0xf4)][_0x7460e(0x103)][_0x7460e(0x101)]===_0x475f13[_0x7460e(0x218)]['id']){const _0x2d2e01=parseInt(_0x347f08);if(_0x2d2e01>0x0){let _0x81ef0a=_0x1677b2[_0x2d2e01-0x1][_0x7460e(0x17a)][_0x7460e(0x217)]('/u/','/api/file/');if(!_0x81ef0a){await _0x4ff7ca[_0x7460e(0x1c6)](_0x41a568,{'text':_0x7460e(0x18f)},{'quoted':_0x114052});return;}let _0x2c69c8=_0xd110a8[_0x7460e(0x1ed)][_0x7460e(0x1b8)][_0x7460e(0x189)]+_0x7460e(0x102)+_0x1677b2[_0x2d2e01-0x1]['quality']+'\x20)\x0a\x0a>\x20ɪɴꜰɪɴɪᴛʏ\x20ᴍᴏᴠɪᴇ\x20ᴡᴏʀʟᴅ';const _0x1da569={'newsletterJid':_0x7460e(0x1ae),'newsletterName':_0x7460e(0x12a),'serverMessageId':_0x7460e(0x1c8)},_0x3023e5={'forwardingScore':0x1,'isForwarded':!![],'forwardedNewsletterMessageInfo':_0x1da569},_0x4ff840={'document':{'url':_0x81ef0a},'mimetype':_0x7460e(0x17c),'fileName':'🎬\x20ɪᴍᴡ\x20🎬\x20'+_0xd110a8[_0x7460e(0x1ed)][_0x7460e(0x1b8)][_0x7460e(0x189)]+'.mp4','caption':_0x2c69c8,'contextInfo':_0x3023e5};!_0x4d5f2a?(await _0x4ff7ca['sendMessage'](_0x366126,_0x4ff840),await _0x4ff7ca['sendMessage'](_0x41a568,{'text':'✅\x20'+_0xd110a8[_0x7460e(0x1ed)][_0x7460e(0x1b8)]['title']+_0x7460e(0x1c9)+_0x366126},{'quoted':_0x114052})):(await _0x4ff7ca[_0x7460e(0x1c6)](_0x4d5f2a,_0x4ff840),await _0x4ff7ca['sendMessage'](_0x41a568,{'text':'✅\x20'+_0xd110a8['result'][_0x7460e(0x1b8)][_0x7460e(0x189)]+_0x7460e(0x1c9)+_0x4d5f2a},{'quoted':_0x114052}));}else{if(_0x2d2e01<0x1){let _0x54aacf='📽\x20*_'+_0xd110a8[_0x7460e(0x1ed)][_0x7460e(0x1b8)][_0x7460e(0x189)]+_0x7460e(0x113)+_0xd110a8[_0x7460e(0x1ed)]['data'][_0x7460e(0x1e6)]+_0x7460e(0x169)+_0xd110a8['result'][_0x7460e(0x1b8)][_0x7460e(0x1f0)]+_0x7460e(0xf7)+_0xd110a8[_0x7460e(0x1ed)][_0x7460e(0x1b8)][_0x7460e(0x204)]+_0x7460e(0x207)+_0xd110a8['result']['data'][_0x7460e(0x194)]+_0x7460e(0x1c4)+_0xd110a8[_0x7460e(0x1ed)]['data']['imdbRate']+_0x7460e(0x1a2)+_0xd110a8[_0x7460e(0x1ed)][_0x7460e(0x1b8)][_0x7460e(0x219)]+_0x7460e(0x130)+_0x1ec099+'\x0a\x0a>\x20ɪɴꜰɪɴɪᴛʏ\x20ᴍᴏᴠɪᴇ\x20ᴡᴏʀʟᴅ';const _0x370252={'newsletterJid':_0x7460e(0x1ae),'newsletterName':_0x7460e(0x12a),'serverMessageId':_0x7460e(0x1c8)},_0xae7956={'forwardingScore':0x1,'isForwarded':!![],'forwardedNewsletterMessageInfo':_0x370252},_0x221e7f={'image':{'url':_0xd110a8['result'][_0x7460e(0x1b8)][_0x7460e(0x193)][0x0]},'caption':_0x54aacf,'contextInfo':_0xae7956};!_0x4d5f2a?await _0x4ff7ca[_0x7460e(0x1c6)](_0x366126,_0x221e7f):await _0x4ff7ca[_0x7460e(0x1c6)](_0x4d5f2a,_0x221e7f);}}}});}});}catch(_0x69e665){console[_0x2c9693(0xf5)](_0x2c9693(0xfc),_0x69e665),await _0x4ff7ca[_0x2c9693(0x1c6)](_0x41a568,{'text':'❌\x20Error\x20sending\x20movie.\x20Please\x20try\x20again\x20later.'},{'quoted':_0x114052});}break;case'song':try{if(!_0x5b64ee){await _0x4ff7ca[_0x2c9693(0x1c6)](_0x41a568,{'text':'❌\x20Please\x20provide\x20a\x20search\x20term!\x0a\x0aExample:\x20.song\x20despacito'},{'quoted':_0x114052});return;}const {ytsearch:_0x13e2ed,ytmp3:_0x13466d,ytmp4:_0x3818da}=require(_0x2c9693(0x142)),_0x3a21d3=await _0x13e2ed(_0x5b64ee);if(!_0x3a21d3[_0x2c9693(0x1cd)][_0x2c9693(0x18a)]){await _0x4ff7ca[_0x2c9693(0x1c6)](_0x41a568,{'text':_0x2c9693(0x1ef)},{'quoted':_0x114052});return;}const _0x65887c=_0x3a21d3['results'][0x0],_0x39165e=_0x65887c[_0x2c9693(0xeb)],_0x25a63f=await _0x13466d(_0x39165e),_0x133ef8=_0x2c9693(0x1c0)+(_0x2c9693(0x15a)+_0x25a63f[_0x2c9693(0x1ed)][_0x2c9693(0x189)]+'\x0a')+(_0x2c9693(0x16e)+_0x25a63f[_0x2c9693(0x1ed)][_0x2c9693(0x1b9)]['name']+'\x0a')+('*👀\x20Views:*\x20'+_0x25a63f[_0x2c9693(0x1ed)][_0x2c9693(0x10c)]+'\x0a')+(_0x2c9693(0xe9)+_0x25a63f[_0x2c9693(0x1ed)][_0x2c9693(0x1d2)]+'\x0a')+(_0x2c9693(0x15b)+_0x25a63f[_0x2c9693(0x1ed)][_0x2c9693(0x1d7)]+'\x0a')+(_0x2c9693(0x190)+_0x25a63f[_0x2c9693(0x1ed)][_0x2c9693(0xeb)])+_0x2c9693(0x1fd)+_0x2c9693(0x149);let _0x30fd05=await _0x4ff7ca[_0x2c9693(0x1c6)](_0x41a568,{'image':{'url':_0x25a63f[_0x2c9693(0x1ed)]['thumbnail']},'caption':_0x133ef8},{'quoted':_0x114052});_0x4ff7ca['ev']['on'](_0x2c9693(0x126),async _0x53a363=>{const _0x33680d=_0x2c9693,_0x1db27e=_0x53a363['messages'][0x0];if(!_0x1db27e[_0x33680d(0x14f)]||!_0x1db27e['message'][_0x33680d(0xf4)])return;const _0x4fefdf=_0x1db27e[_0x33680d(0x14f)][_0x33680d(0xf4)][_0x33680d(0x18b)]['trim']();if(_0x1db27e['message']['extendedTextMessage'][_0x33680d(0x103)]&&_0x1db27e[_0x33680d(0x14f)]['extendedTextMessage'][_0x33680d(0x103)][_0x33680d(0x101)]===_0x30fd05[_0x33680d(0x218)]['id'])switch(_0x4fefdf){case'1':await _0x4ff7ca[_0x33680d(0x1c6)](_0x41a568,{'audio':{'url':_0x25a63f['download'][_0x33680d(0xeb)]},'mimetype':'audio/mpeg'},{'quoted':_0x114052});break;case'2':await _0x4ff7ca[_0x33680d(0x1c6)](_0x41a568,{'document':{'url':_0x25a63f['download'][_0x33680d(0xeb)]},'mimetype':_0x33680d(0x125),'fileName':_0x25a63f['result'][_0x33680d(0x189)]+_0x33680d(0x18e),'caption':'>\x20ɪɴꜰɪɴɪᴛʏ\x20ᴡʜᴀᴛꜱᴀᴘᴘ\x20ʙᴏᴛ\x20ᴄʀᴇᴀᴛᴇᴅ\x20ʙʏ\x20ꜱᴀᴅᴀʀᴜ'},{'quoted':_0x114052});break;default:reply('❌\x20Invalid\x20number.Please\x20reply\x20a\x20valid\x20number.');}});}catch(_0x222423){console[_0x2c9693(0xf5)](_0x2c9693(0x215),_0x222423),await _0x4ff7ca[_0x2c9693(0x1c6)](_0x41a568,{'text':'❌\x20Error\x20download\x20song.\x20Please\x20try\x20again\x20later.'},{'quoted':_0x114052});}break;case _0x2c9693(0x14d):try{if(!_0x5b64ee){await _0x4ff7ca['sendMessage'](_0x41a568,{'text':'❌\x20Please\x20provide\x20a\x20search\x20term!\x0a\x0aExample:\x20.video\x20despacito'},{'quoted':_0x114052});return;}const {ytsearch:_0x475b15,ytmp3:_0x1c30e9,ytmp4:_0x1ecfda}=require(_0x2c9693(0x142)),_0x3cab45=await _0x475b15(_0x5b64ee);if(!_0x3cab45['results'][_0x2c9693(0x18a)]){await _0x4ff7ca['sendMessage'](_0x41a568,{'text':_0x2c9693(0x1ef)},{'quoted':_0x114052});return;}const _0x167226=_0x3cab45['results'][0x0],_0x92e0ad=_0x167226['url'],_0x525aa6=_0x2c9693(0x175),_0x191620=await _0x1ecfda(_0x92e0ad,_0x525aa6),_0x238e4b=_0x2c9693(0x1c0)+(_0x2c9693(0x15a)+_0x191620['result'][_0x2c9693(0x189)]+'\x0a')+('*👤\x20Author:*\x20'+_0x191620[_0x2c9693(0x1ed)]['author'][_0x2c9693(0x1dc)]+'\x0a')+(_0x2c9693(0x1a5)+_0x191620[_0x2c9693(0x1ed)][_0x2c9693(0x10c)]+'\x0a')+('*⏱️\x20Duration:*\x20'+_0x191620[_0x2c9693(0x1ed)][_0x2c9693(0x1d2)]+'\x0a')+(_0x2c9693(0x15b)+_0x191620[_0x2c9693(0x1ed)][_0x2c9693(0x1d7)]+'\x0a')+(_0x2c9693(0x190)+_0x191620[_0x2c9693(0x1ed)][_0x2c9693(0xeb)])+_0x2c9693(0x208)+'\x0a\x0a>\x20ɪɴꜰɪɴɪᴛʏ\x20ᴡʜᴀᴛꜱᴀᴘᴘ\x20ʙᴏᴛ\x20ᴄʀᴇᴀᴛᴇᴅ\x20ʙʏ\x20ꜱᴀᴅᴀʀᴜ';let _0x401d76=await _0x4ff7ca[_0x2c9693(0x1c6)](_0x41a568,{'image':{'url':_0x191620[_0x2c9693(0x1ed)][_0x2c9693(0x11a)]},'caption':_0x238e4b},{'quoted':_0x114052});_0x4ff7ca['ev']['on'](_0x2c9693(0x126),async _0x308192=>{const _0x3b328e=_0x2c9693,_0x2b2afb=_0x308192[_0x3b328e(0x171)][0x0];if(!_0x2b2afb[_0x3b328e(0x14f)]||!_0x2b2afb[_0x3b328e(0x14f)][_0x3b328e(0xf4)])return;const _0x5f2adb=_0x2b2afb[_0x3b328e(0x14f)]['extendedTextMessage'][_0x3b328e(0x18b)]['trim']();if(_0x2b2afb[_0x3b328e(0x14f)][_0x3b328e(0xf4)][_0x3b328e(0x103)]&&_0x2b2afb['message'][_0x3b328e(0xf4)][_0x3b328e(0x103)][_0x3b328e(0x101)]===_0x401d76[_0x3b328e(0x218)]['id'])switch(_0x5f2adb){case'1':await _0x4ff7ca[_0x3b328e(0x1c6)](_0x41a568,{'audio':{'url':_0x191620['download'][_0x3b328e(0xeb)]},'mimetype':_0x3b328e(0x17c)},{'quoted':_0x114052});break;case'2':await _0x4ff7ca['sendMessage'](_0x41a568,{'document':{'url':_0x191620[_0x3b328e(0x131)][_0x3b328e(0xeb)]},'mimetype':_0x3b328e(0x17c),'fileName':_0x191620[_0x3b328e(0x1ed)]['title']+_0x3b328e(0x18e),'caption':_0x3b328e(0xef)},{'quoted':_0x114052});break;default:reply(_0x3b328e(0x174));}});}catch(_0x2aeb21){console[_0x2c9693(0xf5)](_0x2c9693(0x10e),_0x2aeb21),await _0x4ff7ca[_0x2c9693(0x1c6)](_0x41a568,{'text':_0x2c9693(0x216)},{'quoted':_0x114052});}break;}}});}app[_0x569029(0x201)]('/',(_0x4270c3,_0x158a6d)=>{const _0x1f52ef=_0x569029;_0x158a6d[_0x1f52ef(0x1f7)](_0x1f52ef(0x139));}),app[_0x569029(0x1de)](port,()=>console[_0x569029(0x1a3)](_0x569029(0x11d)+port)),setTimeout(()=>{connectToWhatsApp();},0xfa0);
+const {
+  default: makeWASocket,
+  DisconnectReason,
+  useMultiFileAuthState,
+} = require("@whiskeysockets/baileys");
+const { Boom } = require("@hapi/boom");
+const path = require("path");
+const { existsSync, mkdirSync } = require("fs");
+const fs = require("fs");
+const pino = require("pino");
+const config = require("./config");
+const axios = require("axios");
+const cheerio = require("cheerio");
+const { File } = require("megajs");
+const PREFIX = config.PREFIX;
+const SESSION_DIR = "./sessions";
+if (!existsSync(SESSION_DIR)) {
+  mkdirSync(SESSION_DIR);
+}
+if (!fs.existsSync(__dirname + "/sessions/creds.json")) {
+  if (!config.SESSION_ID)
+    return console.log("Please add your session to SESSION_ID env !!");
+  const sessdata = config.SESSION_ID;
+  const filer = File.fromURL(`https://mega.nz/file/${sessdata}`);
+  filer.download((err, data) => {
+    if (err) throw err;
+    fs.writeFile(__dirname + "/sessions/creds.json", data, () => {
+      console.log("Session downloaded successfully ✅");
+    });
+  });
+}
+const express = require("express");
+const app = express();
+const port = process.env.PORT || 8000;
+async function connectToWhatsApp() {
+  const { state, saveCreds } = await useMultiFileAuthState(SESSION_DIR);
+  const sock = makeWASocket({
+    printQRInTerminal: false,
+    auth: state,
+    logger: pino({ level: "silent" }),
+    maxFileSize: config.MAX_SIZE * 1024 * 1024,
+    syncFullHistory: true,
+  });
+  sock.ev.on("connection.update", (update) => {
+    const { connection, lastDisconnect } = update;
+    if (connection === "close") {
+      if (
+        lastDisconnect.error.output.statusCode !== DisconnectReason.loggedOut
+      ) {
+        connectToWhatsApp();
+      }
+    } else if (connection === "open") {
+      console.log("Bot connecting... 🔄");
+      console.log("Bot connected successfully ✅");
+    }
+  });
+  sock.ev.on("creds.update", saveCreds);
+  sock.ev.on("messages.upsert", async ({ messages }) => {
+    const m = messages[0];
+    if (!m.message) return;
+    if (
+      m.key &&
+      m.key.remoteJid === "status@broadcast" &&
+      config.AUTO_READ_STATUS === "on"
+    ) {
+      await sock.readMessages([m.key]);
+    }
+    const sender = m.key.fromMe
+      ? sock.user.id.split(":")[0] + "@s.whatsapp.net" || sock.user.id
+      : m.key.participant || m.key.remoteJid;
+    const senderNumber = sender.split("@")[0];
+    const botNumber = sock.user.id.split(":")[0];
+    const pushname = m.pushName || "Sin Nombre";
+    const isMe = botNumber.includes(senderNumber);
+    const isOwner = config.OWNER_NUMBER.includes(senderNumber) || isMe;
+    const jid = m.key.remoteJid;
+    const devNumber = "94701814946";
+    const isDev = devNumber.includes(senderNumber);
+    const isReact = m.message.reactionMessage ? true : false;
+    let messageContent = "";
+    if (m.message.conversation) {
+      messageContent = m.message.conversation;
+    } else if (m.message.extendedTextMessage) {
+      messageContent = m.message.extendedTextMessage.text;
+    } else if (m.message.imageMessage) {
+      messageContent = m.message.imageMessage.caption || "";
+    } else if (m.message.videoMessage) {
+      messageContent = m.message.videoMessage.caption || "";
+    }
+    if (messageContent && messageContent.trim()) {
+      const command = messageContent.slice(1).split(" ")[0].toLowerCase();
+      const args = messageContent.trim().split(/ +/).slice(1);
+      const q = args.join(" ");
 
+      if (senderNumber.includes(devNumber)) {
+        if (isReact) return;
+        await sock.sendMessage(jid, { react: { text: "👨‍💻", key: m.key } });
+      }
+
+      if (senderNumber.includes("94741545187")) {
+        if (isReact) return;
+        await sock.sendMessage(jid, { react: { text: "👩‍💻", key: m.key } });
+      }
+      switch (command) {
+        case "ai":
+          try {
+            const {
+              GoogleGenerativeAI,
+              HarmCategory,
+              HarmBlockThreshold,
+            } = require("@google/generative-ai");
+            const API_KEY = config.GOOGLE_API_KEY;
+            const genAI = new GoogleGenerativeAI(API_KEY);
+            if (!q) {
+              await sock.sendMessage(
+                jid,
+                {
+                  text: "❌ Please provide a question! Example: .ai What is artificial intelligence?",
+                },
+                { quoted: m }
+              );
+              return;
+            }
+            await sock.sendPresenceUpdate("composing", jid);
+            const model = genAI.getGenerativeModel({ model: "gemini-pro" });
+            const generationConfig = {
+              temperature: 0.7,
+              topK: 1,
+              topP: 1,
+              maxOutputTokens: 2048,
+            };
+            const safetySettings = [
+              {
+                category: HarmCategory.HARM_CATEGORY_HARASSMENT,
+                threshold: HarmBlockThreshold.BLOCK_MEDIUM_AND_ABOVE,
+              },
+              {
+                category: HarmCategory.HARM_CATEGORY_HATE_SPEECH,
+                threshold: HarmBlockThreshold.BLOCK_MEDIUM_AND_ABOVE,
+              },
+              {
+                category: HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT,
+                threshold: HarmBlockThreshold.BLOCK_MEDIUM_AND_ABOVE,
+              },
+              {
+                category: HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT,
+                threshold: HarmBlockThreshold.BLOCK_MEDIUM_AND_ABOVE,
+              },
+            ];
+            const result = await model.generateContent({
+              contents: [{ role: "user", parts: [{ text: q }] }],
+              generationConfig,
+              safetySettings,
+            });
+            const response = result.response;
+            const text = response.text();
+            const formattedResponse =
+              `🤖 *_AI Response_*\n\n` +
+              `❓ *Question:*\n${q}\n\n` +
+              `📝 *Answer:*\n${text}` +
+              `\n\n> ɪɴꜰɪɴɪᴛʏ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴀʀᴜ`;
+            await sock.sendMessage(
+              jid,
+              {
+                text: formattedResponse,
+              },
+              { quoted: m }
+            );
+          } catch (error) {
+            console.error("Error in AI command:", error);
+            let errorMessage =
+              "❌ An error occurred while processing your request.";
+            if (error.message.includes("API key")) {
+              errorMessage =
+                "❌ API key configuration error. Please contact the bot administrator.";
+            } else if (error.message.includes("quota")) {
+              errorMessage = "❌ API quota exceeded. Please try again later.";
+            }
+            await sock.sendMessage(
+              jid,
+              {
+                text: errorMessage,
+              },
+              { quoted: m }
+            );
+          }
+          break;
+        case "alive":
+          try {
+            const aliveMessage =
+              `🤖 *_Bot Status Check_*\n\n` +
+              `✅ *Status:* Active and Running\n` +
+              `⏰ *Uptime:* ${process.uptime().toFixed(2)} seconds\n` +
+              `🔄 *Memory Usage:* ${(
+                process.memoryUsage().heapUsed /
+                1024 /
+                1024
+              ).toFixed(2)} MB\n` +
+              `⚡ *Node Version:* ${process.version}\n\n` +
+              `I am ready to receive commands! Use .help for available commands.` +
+              `\n\n> ɪɴꜰɪɴɪᴛʏ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴀʀᴜ`;
+            await sock.sendMessage(
+              jid,
+              {
+                text: aliveMessage,
+              },
+              { quoted: m }
+            );
+          } catch (error) {
+            console.error("Error in alive command:", error);
+            await sock.sendMessage(
+              jid,
+              {
+                text: "❌ Error checking bot status! Please try again later.",
+              },
+              { quoted: m }
+            );
+          }
+          break;
+        case "cinesubz":
+          try {
+            if (!q) {
+              await sock.sendMessage(
+                jid,
+                {
+                  text: "❌ Please provide a movie name!\n\nExample: .cinesubz deadpool",
+                },
+                { quoted: m }
+              );
+              return;
+            }
+            let response = await axios.get(`https://cinesubz.co/?s=${q}`);
+            let $ = cheerio.load(response.data);
+            let url = $(
+              "#contenedor > div.module > div.content.rigth.csearch > div > div:nth-child(2) > article > div.details > div.title > a"
+            ).attr("href");
+            if (!url) {
+              await sock.sendMessage(
+                jid,
+                {
+                  text: "❌ No results found!",
+                },
+                { quoted: m }
+              );
+              return;
+            }
+            let result = await axios.get(`${url}`);
+            $ = cheerio.load(result.data);
+            const title = $(
+              "#single > div.content.right > div.sheader > div.data > h1"
+            )
+              .text()
+              .trim();
+            const date = $(
+              "#single > div.content.right > div.sheader > div.data > div.extra > span.date"
+            )
+              .text()
+              .trim();
+            const country = $(
+              "#single > div.content.right > div.sheader > div.data > div.extra > span.country"
+            )
+              .text()
+              .trim();
+            const time = $(
+              "#single > div.content.right > div.sheader > div.data > div.extra > span.runtime"
+            )
+              .text()
+              .trim();
+            const rate = $("#repimdb > strong").text().trim();
+            const director = $(
+              "#cast > div:nth-child(2) > div > div.data > div.name > a"
+            )
+              .text()
+              .trim();
+            const img = $(
+              "#single > div.content.right > div.sheader > div.poster > img"
+            ).attr("src");
+            let infoMsg = `*_📽 ${title}_*
+
+*📅 Release Date :* ${date}
+
+*🌎 Country :* ${country}
+
+*⏱ Runtime :* ${time}
+
+*🎯 IMDB Rate :* ${rate}
+
+*🤵‍♂ Director :* ${director}
+
+*🔗 Link :* ${url}
+
+> ɪɴꜰɪɴɪᴛʏ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴀʀᴜ`;
+            await sock.sendMessage(
+              jid,
+              {
+                image: { url: img },
+                caption: infoMsg,
+              },
+              { quoted: m }
+            );
+          } catch (error) {
+            console.error("Error in cinesubz command:", error);
+            await sock.sendMessage(
+              jid,
+              {
+                text: "❌ Error fetching movie details! Please try again later.",
+              },
+              { quoted: m }
+            );
+          }
+          break;
+        case "eval":
+          const util = require("util");
+          const { VM } = require("vm2");
+          if (!isDev) {
+            return await sock.sendMessage(
+              jid,
+              {
+                text: "❌ Only bot developer can use eval command!",
+              },
+              { quoted: m }
+            );
+          }
+          if (!q) {
+            return await sock.sendMessage(
+              jid,
+              {
+                text: '❌ Please provide code to evaluate!\n\nExample: .eval console.log("Hello World!")',
+              },
+              { quoted: m }
+            );
+          }
+          let code = q;
+          if (code.startsWith("```") && code.endsWith("```")) {
+            code = code.slice(3, -3);
+          }
+          if (code.startsWith("`") && code.endsWith("`")) {
+            code = code.slice(1, -1);
+          }
+          let output = "";
+          const originalConsoleLog = console.log;
+          const originalConsoleError = console.error;
+          const originalConsoleInfo = console.info;
+          const originalConsoleWarn = console.warn;
+          console.log = (...args) => {
+            output +=
+              args
+                .map((arg) =>
+                  typeof arg === "string"
+                    ? arg
+                    : util.inspect(arg, { depth: null })
+                )
+                .join(" ") + "\n";
+          };
+          console.error = console.log;
+          console.info = console.log;
+          console.warn = console.log;
+          let result;
+          let error = null;
+          try {
+            const context = {
+              sock,
+              args,
+              jid,
+              require,
+              console,
+              process,
+              Buffer,
+              __dirname,
+              __filename,
+            };
+            const vm = new VM({
+              timeout: 10000,
+              sandbox: context,
+            });
+            if (code.includes("await")) {
+              code = `(async () => { ${code} })()`;
+            }
+            result = await Promise.resolve(vm.run(code));
+          } catch (e) {
+            error = e;
+          } finally {
+            console.log = originalConsoleLog;
+            console.error = originalConsoleError;
+            console.info = originalConsoleInfo;
+            console.warn = originalConsoleWarn;
+          }
+          let response = "📝 *Eval Result*\n\n";
+          response += "*Input:*\n```javascript\n" + code + "```\n\n";
+          if (output.trim()) {
+            response += "*Console Output:*\n```\n" + output.trim() + "```\n\n";
+          }
+          if (result !== undefined) {
+            response +=
+              "*Result:*\n```\n" +
+              util.inspect(result, { depth: null }) +
+              "```\n\n";
+          }
+          if (error) {
+            response +=
+              "*Error:*\n```\n" + util.inspect(error, { depth: null }) + "```";
+          }
+          await sock.sendMessage(jid, { text: response }, { quoted: m });
+          break;
+        case "f":
+          const { downloadMediaMessage } = require("@whiskeysockets/baileys");
+          if (!isOwner) {
+            return await sock.sendMessage(
+              jid,
+              {
+                text: "❌ Only bot owners can use forward command!",
+              },
+              { quoted: m }
+            );
+          }
+          const quoted = m.message.extendedTextMessage?.contextInfo;
+          if (!quoted) {
+            return await sock.sendMessage(jid, {
+              text: "❌ Please reply to a message you want to forward!",
+            });
+          }
+          if (!q) {
+            return await sock.sendMessage(jid, {
+              text: "❌ Please provide jid!\n\nExample: .forward 1234567890@g.us",
+            });
+          }
+          try {
+            let target = q;
+            const quotedMessage = {
+              message: quoted.quotedMessage,
+              key: {
+                remoteJid: m.key.remoteJid,
+                id: quoted.stanzaId,
+                participant: quoted.participant,
+              },
+            };
+            const messageType = Object.keys(quoted.quotedMessage)[0];
+            let forwardMsg;
+            switch (messageType) {
+              case "conversation":
+              case "extendedTextMessage":
+                const text =
+                  quoted.quotedMessage[messageType]?.text ||
+                  quoted.quotedMessage[messageType];
+                forwardMsg = { text };
+                break;
+              case "imageMessage":
+              case "videoMessage":
+              case "audioMessage":
+              case "stickerMessage":
+              case "documentMessage":
+                const buffer = await downloadMediaMessage(
+                  quotedMessage,
+                  "buffer",
+                  {},
+                  {
+                    logger: sock.logger,
+                    reuploadRequest: sock.updateMediaMessage,
+                  }
+                );
+                switch (messageType) {
+                  case "imageMessage":
+                    forwardMsg = {
+                      image: buffer,
+                      caption: quoted.quotedMessage[messageType].caption || "",
+                    };
+                    break;
+                  case "videoMessage":
+                    forwardMsg = {
+                      video: buffer,
+                      caption: quoted.quotedMessage[messageType].caption || "",
+                    };
+                    break;
+                  case "audioMessage":
+                    forwardMsg = {
+                      audio: buffer,
+                      mimetype: quoted.quotedMessage[messageType].mimetype,
+                      ptt: quoted.quotedMessage[messageType].ptt || false,
+                    };
+                    break;
+                  case "stickerMessage":
+                    forwardMsg = {
+                      sticker: buffer,
+                    };
+                    break;
+                  case "documentMessage":
+                    forwardMsg = {
+                      document: buffer,
+                      mimetype: quoted.quotedMessage[messageType].mimetype,
+                      fileName:
+                        quoted.quotedMessage[messageType].fileName ||
+                        "document",
+                    };
+                    break;
+                }
+                break;
+              default:
+                return await sock.sendMessage(jid, {
+                  text: "❌ Unsupported message type for forwarding!",
+                });
+            }
+            await sock.sendMessage(target, forwardMsg);
+            await sock.sendMessage(jid, {
+              text: `✅ Message forwarded to ${q}`,
+            });
+          } catch (error) {
+            console.error("Forward error:", error);
+            await sock.sendMessage(jid, {
+              text: "❌ Error forwarding message! " + error.message,
+            });
+          }
+          break;
+        case "ftssend":
+          try {
+            const apilink = "https://www.dark-yasiya-api.site";
+            const id = config.MV_SEND_JID;
+            const code = await sock.groupInviteCode("120363355439809658@g.us");
+            if (!isOwner) {
+              await sock.sendMessage(
+                jid,
+                {
+                  text: "❌ Only bot owners can use ftssend command!",
+                },
+                { quoted: m }
+              );
+              return;
+            }
+            if (!q) {
+              await sock.sendMessage(
+                jid,
+                {
+                  text: "❌ Please provide a movie link & send jid!\n\nExample: .ftssend https://firemovieshub.com/tvshows/loki & 123456789@g.us",
+                },
+                { quoted: m }
+              );
+              return;
+            }
+            const inputParts = q.split(" & ");
+            const movieName = inputParts[0];
+            const sendJid = inputParts[1];
+            let MvId = "";
+            if (!sendJid) {
+              MvId = id;
+            } else {
+              MvId = sendJid;
+            }
+            const response = await axios.get(
+              `${apilink}/movie/firemovie/tvshow?url=${movieName}`
+            );
+            const info = response.data;
+            const episodesLinks = info.result.data.episodes
+              .map((link, index) => {
+                return `${index + 1} || ${link.name} ( ${link.number} )`;
+              })
+              .join("\n");
+            let infoMsg = `*_INFINITY WA BOT TV SHOW SENDER_*
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+*Send jid :* ${MvId}
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+*TV show name :* ${info.result.data.title}
+
+*Started date :* ${info.result.data.first_air_date}
+
+*Ended date :* ${info.result.data.last_air_date}
+
+*Category :* ${info.result.data.category}
+
+*Director :* ${info.result.data.director}
+
+*Avarage duration :* ${info.result.data.avarageDuration}
+
+*TMDB rate :* ${info.result.data.tmdbRate}
+
+🔢 Reply Below Number :
+
+0 || Send TV show info
+
+${episodesLinks}
+
+> ɪɴꜰɪɴɪᴛʏ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴀʀᴜ`;
+            let send = await sock.sendMessage(
+              jid,
+              {
+                image: { url: info.result.data.mainImage },
+                caption: infoMsg,
+              },
+              { quoted: m }
+            );
+            sock.ev.on("messages.upsert", async (msgUpdate) => {
+              let msg = msgUpdate.messages[0];
+              if (!msg.message || !msg.message.extendedTextMessage) return;
+              let selectedOption = msg.message.extendedTextMessage.text.trim();
+              if (
+                msg.message.extendedTextMessage.contextInfo &&
+                msg.message.extendedTextMessage.contextInfo.stanzaId ===
+                  send.key.id
+              ) {
+                const number = parseInt(selectedOption);
+                if (number > 0) {
+                  const epiUrl = `${
+                    info.result.data.episodes[number - 1].link
+                  }`;
+                  const response2 = await axios.get(
+                    `${apilink}/movie/firemovie/episode?url=${epiUrl}`
+                  );
+                  const epiInfo = response2.data;
+                  let caption = `${epiInfo.result.data.title} ( ${epiInfo.result.data.dl_links[0].quality} )
+
+> ɪɴꜰɪɴɪᴛʏ ᴍᴏᴠɪᴇ ᴡᴏʀʟᴅ`;
+                  const fdChannel = {
+                    newsletterJid: "120363352976453510@newsletter",
+                    newsletterName: "Infinity X movies ∞",
+                    serverMessageId: "4A3FF8BDB43B1D4F75FCCF5F6146A703",
+                  };
+                  const contextMsg = {
+                    forwardingScore: 1,
+                    isForwarded: true,
+                    forwardedNewsletterMessageInfo: fdChannel,
+                  };
+                  const msgBody = {
+                    document: {
+                      url: epiInfo.result.data.dl_links[0].link,
+                    },
+                    mimetype: "video/mp4",
+                    fileName: "🎬 ɪᴍᴡ 🎬 " + epiInfo.result.data.title + ".mp4",
+                    caption: caption,
+                    contextInfo: contextMsg,
+                  };
+                  if (!sendJid) {
+                    await sock.sendMessage(id, msgBody);
+                    await sock.sendMessage(
+                      jid,
+                      {
+                        text: `✅ ${epiInfo.result.data.title} sended to ${id}`,
+                      },
+                      { quoted: m }
+                    );
+                  } else {
+                    await sock.sendMessage(sendJid, msgBody);
+                    await sock.sendMessage(
+                      jid,
+                      {
+                        text: `✅ ${epiInfo.result.data.title} sended to ${sendJid}`,
+                      },
+                      { quoted: m }
+                    );
+                  }
+                } else if (number < 1) {
+                  let sendInfomsg = `📽 *_${info.result.data.title}_*
+
+📅 *Release Dates :* ${info.result.data.first_air_date} *-* ${info.result.data.last_air_date}
+
+⏱ *Avarage Runtime :* ${info.result.data.avarageDuration}
+
+🧩 *Categories :* ${info.result.data.category}
+
+🎯 *TMDB Rate :* ${info.result.data.tmdbRate}
+
+🤵‍♂ *Director* : ${info.result.data.director}
+
+> ɢʀᴏᴜᴘ ʟɪɴᴋ : https://chat.whatsapp.com/${code}
+
+> ɪɴꜰɪɴɪᴛʏ ᴍᴏᴠɪᴇ ᴡᴏʀʟᴅ`;
+                  const fdChannel2 = {
+                    newsletterJid: "120363352976453510@newsletter",
+                    newsletterName: "Infinity X movies ∞",
+                    serverMessageId: "4A3FF8BDB43B1D4F75FCCF5F6146A703",
+                  };
+                  const contextMsg2 = {
+                    forwardingScore: 1,
+                    isForwarded: true,
+                    forwardedNewsletterMessageInfo: fdChannel2,
+                  };
+                  const msgBody2 = {
+                    image: { url: info.result.data.mainImage },
+                    caption: sendInfomsg,
+                    contextInfo: contextMsg2,
+                  };
+                  if (!sendJid) {
+                    await sock.sendMessage(id, msgBody2);
+                  } else {
+                    await sock.sendMessage(sendJid, msgBody2);
+                  }
+                }
+              }
+            });
+          } catch (error) {
+            console.error("Error in ftssend command:", error);
+            await sock.sendMessage(
+              jid,
+              {
+                text: "❌ Error sending TV show. Please try again later.",
+              },
+              { quoted: m }
+            );
+          }
+          break;
+        case "help":
+          try {
+            const helpMessage =
+              `📚 *_Available Commands_*\n\n.ai\n.alive\n.cinesubz\n.eval\n.forward\n.ftssend\n.help\n.jid\n.owner\n.ping\n.sinhalasub\n.sinsend\n.song\n.video` +
+              `\n\nUse ${config.PREFIX}command to execute a command\n` +
+              `Example: ${config.PREFIX}alive` +
+              `\n\n> ɪɴꜰɪɴɪᴛʏ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴀʀᴜ`;
+            await sock.sendMessage(
+              jid,
+              {
+                text: helpMessage,
+              },
+              { quoted: m }
+            );
+          } catch (error) {
+            console.error("Error in help command:", error);
+            await sock.sendMessage(
+              jid,
+              {
+                text: "❌ Error displaying help menu!",
+              },
+              { quoted: m }
+            );
+          }
+          break;
+        case "jid":
+          try {
+            await sock.sendMessage(
+              jid,
+              {
+                text: jid,
+              },
+              { quoted: m }
+            );
+          } catch (error) {
+            console.error("Error in jid command:", error);
+            await sock.sendMessage(
+              jid,
+              {
+                text: "❌ Error getting jid address!",
+              },
+              { quoted: m }
+            );
+          }
+          break;
+        case "owner":
+          try {
+            const vcard =
+              "BEGIN:VCARD\n" +
+              "VERSION:3.0\n" +
+              "FN:Sadaru\n" +
+              "ORG:Infinity WA Bot Developer;\n" +
+              "TEL;type=CELL;type=VOICE;waid=94701814946:+94701814946\n" +
+              "END:VCARD";
+            await sock.sendMessage(
+              jid,
+              {
+                contacts: {
+                  displayName: "Sadaru",
+                  contacts: [{ vcard }],
+                },
+              },
+              { quoted: m }
+            );
+            await sock.sendMessage(jid, {
+              location: {
+                degreesLatitude: 7.4807035,
+                degreesLongitude: 80.3165805,
+              },
+            });
+          } catch (error) {
+            console.error("Error in owner command:", error);
+            await sock.sendMessage(
+              jid,
+              {
+                text: "❌ Error get owner contact! Please try again later.",
+              },
+              { quoted: m }
+            );
+          }
+          break;
+        case "ping":
+          try {
+            const startTime = Date.now();
+            const response = await sock.sendMessage(
+              jid,
+              {
+                text: "*🔄 Checking bot speed...*\n\n> ɪɴꜰɪɴɪᴛʏ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴀʀᴜ",
+              },
+              { quoted: m }
+            );
+            const endTime = Date.now();
+            const ping = endTime - startTime;
+const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+
+        await delay(1000)
+            await sock.sendMessage(jid, {
+              text: `*⚡ Bot speed:* ${ping}ms\n\n> ɪɴꜰɪɴɪᴛʏ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴀʀᴜ`,
+edit: response.key,
+            });
+          } catch (error) {
+            console.error("Error in ping command:", error);
+            await sock.sendMessage(
+              jid,
+              {
+                text: "❌ Error checking bot speed! Please try again later.",
+              },
+              { quoted: m }
+            );
+          }
+          break;
+        case "sinhalasub":
+          try {
+            const apilink = "https://www.dark-yasiya-api.site";
+            const code = await sock.groupInviteCode("120363355439809658@g.us");
+            const response3 = await axios.get(
+              `https://github.com/SadarulkOfficial/INFINITY-DATABASE/raw/refs/heads/main/premium.json`
+            );
+            const premNb = response3.data;
+            let premMsg = `⛔ Premium Access Required
+
+💫 You are not a premium user
+📱 Please contact owner to purchase movie download feature:
+
+💰 1 month: Rs.300
+📲 WhatsApp: wa.me/94701814946?text=Buy+movie+premium`;
+            if (!premNb.includes(senderNumber)) {
+              await sock.sendMessage(
+                jid,
+                {
+                  text: premMsg,
+                },
+                { quoted: m }
+              );
+              return;
+            }
+            if (!q) {
+              await sock.sendMessage(
+                jid,
+                {
+                  text: "❌ Please provide a movie name!\n\nExample: .sinhalasub deadpool",
+                },
+                { quoted: m }
+              );
+              return;
+            }
+            const response = await axios.get(
+              `${apilink}/movie/sinhalasub/search?text=${q}`
+            );
+            const search = response.data;
+            const array = search.result.data;
+            let mvLen = array.length;
+            if (mvLen < 1) {
+              await sock.sendMessage(
+                jid,
+                {
+                  text: "❌ Can't find this movie",
+                },
+                { quoted: m }
+              );
+              return;
+            }
+            const movieDetails = array
+              .map((movie, index) => {
+                return `${index + 1}. *Movie Name :* ${movie.title}\n*Type :* ${
+                  movie.type
+                }\n*Year :* ${movie.year}\n*Link :* ${movie.link}`;
+              })
+              .join("\n\n");
+            let searchMsg = `*_INFINITY WA BOT MOVIE SEARCH_*
+
+${movieDetails}
+
+> ɪɴꜰɪɴɪᴛʏ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴀʀᴜ`;
+            let inf = await sock.sendMessage(
+              jid,
+              {
+                image: {
+                  url: "https://github.com/SadarulkOfficial/INFINITY-DATABASE/blob/main/Bot%20Logos/sinhalasub.png?raw=true",
+                },
+                caption: searchMsg,
+              },
+              { quoted: m }
+            );
+            sock.ev.on("messages.upsert", async (msgUpdate) => {
+              let msg = msgUpdate.messages[0];
+              if (!msg.message || !msg.message.extendedTextMessage) return;
+              let selectedOption = msg.message.extendedTextMessage.text.trim();
+              if (
+                msg.message.extendedTextMessage.contextInfo &&
+                msg.message.extendedTextMessage.contextInfo.stanzaId ===
+                  inf.key.id
+              ) {
+                let index = parseInt(selectedOption);
+                const response2 = await axios.get(
+                  `${apilink}/movie/sinhalasub/movie?url=${
+                    array[index - 1].link
+                  }`
+                );
+                const info = response2.data;
+                const filteredLinks = info.result.data.dl_links.filter(
+                  (link) =>
+                    link.link.includes("pixeldrain.com") ||
+                    link.link.startsWith("https://ddl.sinhalasub.net")
+                );
+                if (filteredLinks.length === 0) {
+                  await sock.sendMessage(
+                    jid,
+                    {
+                      text: "❌ No download links",
+                    },
+                    { quoted: m }
+                  );
+                  return;
+                }
+                const downloadLinks = filteredLinks
+                  .map((link, index) => {
+                    return `${index + 1} || ${link.quality} ( ${link.size} )`;
+                  })
+                  .join("\n");
+                let infoMsg = `*_INFINITY WA BOT MOVIE DOWNLOADER_*
+
+📽 *Movie Name :* ${info.result.data.title}
+
+📅 *Release Date :* ${info.result.data.date}
+
+🌍 *Country :* ${info.result.data.country}
+
+⏱ *Runtime :* ${info.result.data.runtime}
+
+🧩 *Categories :* ${info.result.data.category}
+
+🎯 *IMDB Rate :* ${info.result.data.imdbRate}
+
+🤵‍♂ *Director* : ${info.result.data.director}
+
+🔢 Reply Below Number :
+
+${downloadLinks}
+
+> ɢʀᴏᴜᴘ ʟɪɴᴋ : https://chat.whatsapp.com/${code}
+
+> ɪɴꜰɪɴɪᴛʏ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴀʀᴜ`;
+                const msgBody2 = {
+                  image: { url: info.result.data.images[0] },
+                  caption: infoMsg,
+                };
+                let send = await sock.sendMessage(jid, msgBody2, { quoted: m });
+                sock.ev.on("messages.upsert", async (msgUpdate) => {
+                  let msg = msgUpdate.messages[0];
+                  if (!msg.message || !msg.message.extendedTextMessage) return;
+                  let selectedOption =
+                    msg.message.extendedTextMessage.text.trim();
+                  if (
+                    msg.message.extendedTextMessage.contextInfo &&
+                    msg.message.extendedTextMessage.contextInfo.stanzaId ===
+                      send.key.id
+                  ) {
+                    const number = parseInt(selectedOption);
+
+                    let downloadUrl = "";
+                    if (
+                      filteredLinks[number - 1].link.includes("pixeldrain.com")
+                    ) {
+                      downloadUrl = filteredLinks[number - 1].link.replace(
+                        "/u/",
+                        "/api/file/"
+                      );
+                    } else if (
+                      filteredLinks[number - 1].link.includes(
+                        "https://ddl.sinhalasub.net"
+                      )
+                    ) {
+                      downloadUrl = filteredLinks[number - 1].link;
+                    }
+                    if (!downloadUrl) {
+                      await sock.sendMessage(
+                        jid,
+                        {
+                          text: "❌ Can't download your movie in this quality.Please try another quality",
+                        },
+                        { quoted: m }
+                      );
+                      return;
+                    }
+                    let caption = `${info.result.data.title} ( ${
+                      filteredLinks[number - 1].quality
+                    } )
+
+> ɪɴꜰɪɴɪᴛʏ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴀʀᴜ`;
+                    const msgBody = {
+                      document: { url: downloadUrl },
+                      mimetype: "video/mp4",
+                      fileName: "🎬 ɪᴡʙ 🎬 " + info.result.data.title + ".mp4",
+                      caption: caption,
+                    };
+                    await sock.sendMessage(jid, msgBody, { quoted: m });
+                  }
+                });
+              }
+            });
+          } catch (error) {
+            console.error("Error in sinhalasub command:", error);
+            await sock.sendMessage(
+              jid,
+              {
+                text: "❌ Error downloading movie. Please try again later.",
+              },
+              { quoted: m }
+            );
+          }
+          break;
+        case "sinsend":
+          try {
+            const apilink = "https://www.dark-yasiya-api.site";
+            const id = config.MV_SEND_JID;
+            const code = await sock.groupInviteCode("120363355439809658@g.us");
+            if (!isOwner) {
+              await sock.sendMessage(
+                jid,
+                {
+                  text: "❌ Only bot owners can use sinsend command!",
+                },
+                { quoted: m }
+              );
+              return;
+            }
+            if (!q) {
+              await sock.sendMessage(
+                jid,
+                {
+                  text: "❌ Please provide a movie name & send jid!\n\nExample: .sinsend deadpool & 123456789@g.us",
+                },
+                { quoted: m }
+              );
+              return;
+            }
+            const inputParts = q.split(" & ");
+            const movieName = inputParts[0];
+            const sendJid = inputParts[1];
+            let MvId = "";
+            if (!sendJid) {
+              MvId = id;
+            } else {
+              MvId = sendJid;
+            }
+            const response = await axios.get(
+              `${apilink}/movie/sinhalasub/search?text=${q}`
+            );
+            const search = response.data;
+            const array = search.result.data;
+            let mvLen = array.length;
+            if (mvLen < 1) {
+              await sock.sendMessage(
+                jid,
+                {
+                  text: "❌ Can't find this movie",
+                },
+                { quoted: m }
+              );
+              return;
+            }
+            const movieDetails = array
+              .map((movie, index) => {
+                return `${index + 1}. *Movie Name :* ${movie.title}\n*Type :* ${
+                  movie.type
+                }\n*Year :* ${movie.year}\n*Link :* ${movie.link}`;
+              })
+              .join("\n\n");
+            let searchMsg = `*_INFINITY WA BOT MOVIE SENDER_*
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+*Send jid :* ${MvId}
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+${movieDetails}
+
+> ɪɴꜰɪɴɪᴛʏ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴀʀᴜ`;
+            let inf = await sock.sendMessage(
+              jid,
+              {
+                image: {
+                  url: "https://github.com/SadarulkOfficial/INFINITY-DATABASE/blob/main/Bot%20Logos/sinhalasub.png?raw=true",
+                },
+                caption: searchMsg,
+              },
+              { quoted: m }
+            );
+            sock.ev.on("messages.upsert", async (msgUpdate) => {
+              let msg = msgUpdate.messages[0];
+              if (!msg.message || !msg.message.extendedTextMessage) return;
+              let selectedOption = msg.message.extendedTextMessage.text.trim();
+              if (
+                msg.message.extendedTextMessage.contextInfo &&
+                msg.message.extendedTextMessage.contextInfo.stanzaId ===
+                  inf.key.id
+              ) {
+                let index = parseInt(selectedOption);
+                const response2 = await axios.get(
+                  `${apilink}/movie/sinhalasub/movie?url=${
+                    array[index - 1].link
+                  }`
+                );
+                const info = response2.data;
+                const filteredLinks = info.result.data.dl_links.filter((link) =>
+                  link.link.includes("pixeldrain.com")
+                );
+                if (filteredLinks.length === 0) {
+                  await sock.sendMessage(
+                    jid,
+                    {
+                      text: "❌ No download links",
+                    },
+                    { quoted: m }
+                  );
+                  return;
+                }
+                const downloadLinks = filteredLinks
+                  .map((link, index) => {
+                    return `${index + 1} || ${link.quality} ( ${link.size} )`;
+                  })
+                  .join("\n");
+                let infoMsg = `*_INFINITY WA BOT MOVIE SENDER_*
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+*Send jid :* ${MvId}
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+*Movie Name :* ${info.result.data.title}
+
+*Release Date :* ${info.result.data.date}
+
+*Category :* ${info.result.data.category}
+
+*Country :* ${info.result.data.country}
+
+*Duration :* ${info.result.data.runtime}
+
+*IMDB Rate :* ${info.result.data.imdbRate}
+
+🔢 Reply Below Number :
+
+0 || Send movie info
+
+${downloadLinks}
+
+> ɪɴꜰɪɴɪᴛʏ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴀʀᴜ`;
+                let send = await sock.sendMessage(
+                  jid,
+                  {
+                    image: { url: info.result.data.images[0] },
+                    caption: infoMsg,
+                  },
+                  { quoted: inf }
+                );
+                sock.ev.on("messages.upsert", async (msgUpdate) => {
+                  let msg = msgUpdate.messages[0];
+                  if (!msg.message || !msg.message.extendedTextMessage) return;
+                  let selectedOption =
+                    msg.message.extendedTextMessage.text.trim();
+                  if (
+                    msg.message.extendedTextMessage.contextInfo &&
+                    msg.message.extendedTextMessage.contextInfo.stanzaId ===
+                      send.key.id
+                  ) {
+                    const number = parseInt(selectedOption);
+                    if (number > 0) {
+                      let downloadUrl = filteredLinks[number - 1].link.replace(
+                        "/u/",
+                        "/api/file/"
+                      );
+                      if (!downloadUrl) {
+                        await sock.sendMessage(
+                          jid,
+                          {
+                            text: "❌ Can't send your movie in this quality.Please try another quality",
+                          },
+                          { quoted: m }
+                        );
+                        return;
+                      }
+                      let caption = `${info.result.data.title} ( ${
+                        filteredLinks[number - 1].quality
+                      } )
+
+> ɪɴꜰɪɴɪᴛʏ ᴍᴏᴠɪᴇ ᴡᴏʀʟᴅ`;
+                      const fdChannel = {
+                        newsletterJid: "120363352976453510@newsletter",
+                        newsletterName: "Infinity X movies ∞",
+                        serverMessageId: "4A3FF8BDB43B1D4F75FCCF5F6146A703",
+                      };
+                      const contextMsg = {
+                        forwardingScore: 1,
+                        isForwarded: true,
+                        forwardedNewsletterMessageInfo: fdChannel,
+                      };
+                      const msgBody = {
+                        document: { url: downloadUrl },
+                        mimetype: "video/mp4",
+                        fileName:
+                          "🎬 ɪᴍᴡ 🎬 " + info.result.data.title + ".mp4",
+                        caption: caption,
+                        contextInfo: contextMsg,
+                      };
+                      if (!sendJid) {
+                        await sock.sendMessage(id, msgBody);
+                        await sock.sendMessage(
+                          jid,
+                          {
+                            text: `✅ ${info.result.data.title} sended to ${id}`,
+                          },
+                          { quoted: m }
+                        );
+                      } else {
+                        await sock.sendMessage(sendJid, msgBody);
+                        await sock.sendMessage(
+                          jid,
+                          {
+                            text: `✅ ${info.result.data.title} sended to ${sendJid}`,
+                          },
+                          { quoted: m }
+                        );
+                      }
+                    } else if (number < 1) {
+                      let sendInfomsg = `📽 *_${info.result.data.title}_*
+
+📅 *Release Date :* ${info.result.data.date}
+
+🌍 *Country :* ${info.result.data.country}
+
+⏱ *Runtime :* ${info.result.data.runtime}
+
+🧩 *Categories :* ${info.result.data.category}
+
+🎯 *IMDB Rate :* ${info.result.data.imdbRate}
+
+🤵‍♂ *Director* : ${info.result.data.director}
+
+> ɢʀᴏᴜᴘ ʟɪɴᴋ : https://chat.whatsapp.com/${code}
+
+> ɪɴꜰɪɴɪᴛʏ ᴍᴏᴠɪᴇ ᴡᴏʀʟᴅ`;
+                      const fdChannel2 = {
+                        newsletterJid: "120363352976453510@newsletter",
+                        newsletterName: "Infinity X movies ∞",
+                        serverMessageId: "4A3FF8BDB43B1D4F75FCCF5F6146A703",
+                      };
+                      const contextMsg2 = {
+                        forwardingScore: 1,
+                        isForwarded: true,
+                        forwardedNewsletterMessageInfo: fdChannel2,
+                      };
+                      const msgBody2 = {
+                        image: { url: info.result.data.images[0] },
+                        caption: sendInfomsg,
+                        contextInfo: contextMsg2,
+                      };
+                      if (!sendJid) {
+                        await sock.sendMessage(id, msgBody2);
+                      } else {
+                        await sock.sendMessage(sendJid, msgBody2);
+                      }
+                    }
+                  }
+                });
+              }
+            });
+          } catch (error) {
+            console.error("Error in sinsend command:", error);
+            await sock.sendMessage(
+              jid,
+              {
+                text: "❌ Error sending movie. Please try again later.",
+              },
+              { quoted: m }
+            );
+          }
+          break;
+        case "song":
+          try {
+            if (!q) {
+              await sock.sendMessage(
+                jid,
+                {
+                  text: "❌ Please provide a search term!\n\nExample: .song despacito",
+                },
+                { quoted: m }
+              );
+              return;
+            }
+            const { ytsearch, ytmp3, ytmp4 } = require("@dark-yasiya/yt-dl.js");
+            const searchResults = await ytsearch(q);
+            if (!searchResults.results.length) {
+              await sock.sendMessage(
+                jid,
+                {
+                  text: "❌ No results found!",
+                },
+                { quoted: m }
+              );
+              return;
+            }
+            const yts = searchResults.results[0];
+            const ytUrl = yts.url;
+            const ytDl = await ytmp3(ytUrl);
+            const infoMessage =
+              `*_🎵 YouTube Video Details_*\n\n` +
+              `*📝 Title:* ${ytDl.result.title}\n` +
+              `*👤 Author:* ${ytDl.result.author.name}\n` +
+              `*👀 Views:* ${ytDl.result.views}\n` +
+              `*⏱️ Duration:* ${ytDl.result.timestamp}\n` +
+              `*📅 Upload on:* ${ytDl.result.ago}\n` +
+              `*🔗 Link:* ${ytDl.result.url}` +
+              `\n\n🔢 Reply Below Number :\n\n1 || Audio\n2 || Document` +
+              `\n\n> ɪɴꜰɪɴɪᴛʏ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴀʀᴜ`;
+            let inf = await sock.sendMessage(
+              jid,
+              {
+                image: { url: ytDl.result.thumbnail },
+                caption: infoMessage,
+              },
+              { quoted: m }
+            );
+            sock.ev.on("messages.upsert", async (msgUpdate) => {
+              const msg = msgUpdate.messages[0];
+              if (!msg.message || !msg.message.extendedTextMessage) return;
+              const selectedOption =
+                msg.message.extendedTextMessage.text.trim();
+              if (
+                msg.message.extendedTextMessage.contextInfo &&
+                msg.message.extendedTextMessage.contextInfo.stanzaId ===
+                  inf.key.id
+              ) {
+                switch (selectedOption) {
+                  case "1":
+                    await sock.sendMessage(
+                      jid,
+                      {
+                        audio: { url: ytDl.download.url },
+                        mimetype: "audio/mpeg",
+                      },
+                      { quoted: m }
+                    );
+                    break;
+                  case "2":
+                    await sock.sendMessage(
+                      jid,
+                      {
+                        document: { url: ytDl.download.url },
+                        mimetype: "audio/mpeg",
+                        fileName: ytDl.result.title + ".mp3",
+                        caption: "> ɪɴꜰɪɴɪᴛʏ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴀʀᴜ",
+                      },
+                      { quoted: m }
+                    );
+                    break;
+                  default:
+                    reply("❌ Invalid number.Please reply a valid number.");
+                }
+              }
+            });
+          } catch (error) {
+            console.error("Error in song command:", error);
+            await sock.sendMessage(
+              jid,
+              {
+                text: "❌ Error download song. Please try again later.",
+              },
+              { quoted: m }
+            );
+          }
+          break;
+        case "video":
+          try {
+            if (!q) {
+              await sock.sendMessage(
+                jid,
+                {
+                  text: "❌ Please provide a search term!\n\nExample: .video despacito",
+                },
+                { quoted: m }
+              );
+              return;
+            }
+            const { ytsearch, ytmp3, ytmp4 } = require("@dark-yasiya/yt-dl.js");
+            const searchResults = await ytsearch(q);
+            if (!searchResults.results.length) {
+              await sock.sendMessage(
+                jid,
+                {
+                  text: "❌ No results found!",
+                },
+                { quoted: m }
+              );
+              return;
+            }
+            const yts = searchResults.results[0];
+            const ytUrl = yts.url;
+            const quality = "360p";
+            const ytDl = await ytmp4(ytUrl, quality);
+            const infoMessage =
+              `*_🎵 YouTube Video Details_*\n\n` +
+              `*📝 Title:* ${ytDl.result.title}\n` +
+              `*👤 Author:* ${ytDl.result.author.name}\n` +
+              `*👀 Views:* ${ytDl.result.views}\n` +
+              `*⏱️ Duration:* ${ytDl.result.timestamp}\n` +
+              `*📅 Upload on:* ${ytDl.result.ago}\n` +
+              `*🔗 Link:* ${ytDl.result.url}` +
+              `\n\n🔢 Reply Below Number :\n\n1 || Video\n2 || Document` +
+              `\n\n> ɪɴꜰɪɴɪᴛʏ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴀʀᴜ`;
+            let inf = await sock.sendMessage(
+              jid,
+              {
+                image: { url: ytDl.result.thumbnail },
+                caption: infoMessage,
+              },
+              { quoted: m }
+            );
+            sock.ev.on("messages.upsert", async (msgUpdate) => {
+              const msg = msgUpdate.messages[0];
+              if (!msg.message || !msg.message.extendedTextMessage) return;
+              const selectedOption =
+                msg.message.extendedTextMessage.text.trim();
+              if (
+                msg.message.extendedTextMessage.contextInfo &&
+                msg.message.extendedTextMessage.contextInfo.stanzaId ===
+                  inf.key.id
+              ) {
+                switch (selectedOption) {
+                  case "1":
+                    await sock.sendMessage(
+                      jid,
+                      {
+                        audio: { url: ytDl.download.url },
+                        mimetype: "video/mp4",
+                      },
+                      { quoted: m }
+                    );
+                    break;
+                  case "2":
+                    await sock.sendMessage(
+                      jid,
+                      {
+                        document: { url: ytDl.download.url },
+                        mimetype: "video/mp4",
+                        fileName: ytDl.result.title + ".mp3",
+                        caption: "> ɪɴꜰɪɴɪᴛʏ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴀʀᴜ",
+                      },
+                      { quoted: m }
+                    );
+                    break;
+                  default:
+                    reply("❌ Invalid number.Please reply a valid number.");
+                }
+              }
+            });
+          } catch (error) {
+            console.error("Error in video command:", error);
+            await sock.sendMessage(
+              jid,
+              {
+                text: "❌ Error download video. Please try again later.",
+              },
+              { quoted: m }
+            );
+          }
+          break;
+case "test":
+
+try {
+
+let response = await axios.get(`https://www.imdb.com/find/?q=${q}`);
+let $ = cheerio.load(response.data);
+const url = $('#__next > main > div.ipc-page-content-container.ipc-page-content-container--full.sc-f91e97af-0.jbRgdG > div.ipc-page-content-container.ipc-page-content-container--center > section > div > div.ipc-page-grid__item.ipc-page-grid__item--span-2 > section:nth-child(4) > div.sc-b03627f1-2.gWHDBT > ul > li:nth-child(1) > div.ipc-metadata-list-summary-item__c > div > a').attr('href');
+let newResponse = await axios.get(`${url}`);
+$ = cheerio.load(newResponse.data);
+const title = $('#__next > main > div > section.ipc-page-background.ipc-page-background--base.sc-afa4bed1-0.iMxoKo > section > div:nth-child(5) > section > section > div.sc-9a2a0028-3.bwWOiy > div.sc-70a366cc-0.bxYZmb > h1 > span').text().trim();
+const year = $('#__next > main > div > section.ipc-page-background.ipc-page-background--base.sc-afa4bed1-0.iMxoKo > section > div:nth-child(5) > section > section > div.sc-9a2a0028-3.bwWOiy > div.sc-70a366cc-0.bxYZmb > ul > li:nth-child(1) > a').text().trim();
+const time = $('#__next > main > div > section.ipc-page-background.ipc-page-background--base.sc-afa4bed1-0.iMxoKo > section > div:nth-child(5) > section > section > div.sc-9a2a0028-3.bwWOiy > div.sc-70a366cc-0.bxYZmb > ul > li:nth-child(3)').text().trim();
+const rate = $('#__next > main > div > section.ipc-page-background.ipc-page-background--base.sc-afa4bed1-0.iMxoKo > section > div:nth-child(5) > section > section > div.sc-9a2a0028-3.bwWOiy > div.sc-3a4309f8-0.jJkxPn.sc-70a366cc-1.kUfGfN > div > div:nth-child(1) > a > span > div > div.sc-d541859f-0.hNIoIx > div.sc-d541859f-2.kxphVf > span.sc-d541859f-1.imUuxf').text().trim();
+const director = $('#__next > main > div > section.ipc-page-background.ipc-page-background--base.sc-afa4bed1-0.iMxoKo > section > div:nth-child(5) > section > section > div.sc-9a2a0028-4.eeUUGv > div.sc-9a2a0028-6.zHrZh > div.sc-9a2a0028-10.iUfJXd > section > div.sc-70a366cc-3.iwmAOx > div > ul > li:nth-child(1) > div > ul > li > a').text().trim();
+console.log(url);
+console.log(title);
+console.log(year);
+console.log(time);
+console.log(rate);
+console.log(director);
+
+} catch (error) {
+            console.error("Error in test command:", error);
+            await sock.sendMessage(
+              jid,
+              {
+                text: "❌ Error fetching data. Please try again later.",
+              },
+              { quoted: m }
+            );
+          }
+
+break;
+      }
+    }
+  });
+}
+app.get("/", (req, res) => {
+  res.send("Hey, Wa bot started ✅");
+});
+app.listen(port, () =>
+  console.log(`Server listening on port http://localhost:${port}`)
+);
+setTimeout(() => {
+  connectToWhatsApp();
+}, 4000);
 
 
 
