@@ -5086,26 +5086,6 @@ async function connectToWhatsApp() {
     } else if (m.message.videoMessage) {
       messageContent = m.message.videoMessage.caption || "";
     }
-
-const buttonResponse = m.message?.buttonsResponseMessage?.selectedButtonId;
-            if (buttonResponse) {
-                switch (buttonResponse) {
-                    case 'test1':
-                        await sock.sendMessage(jid, { 
-                            text: 'Test 1' 
-                        });
-                        break;
-                    case 'test2':
-                        await sock.sendMessage(jid, { text: 'Test 2' });
-                        break;
-                    case 'test3':
-                           await sock.sendMessage(jid, { 
-                            text: 'Test 3' 
-                        });
-                        break;
-                }
-                            }
-
     if (messageContent && messageContent.trim()) {
       const command = messageContent.slice(1).split(" ")[0].toLowerCase();
       const args = messageContent.trim().split(/ +/).slice(1);
@@ -5121,30 +5101,6 @@ const buttonResponse = m.message?.buttonsResponseMessage?.selectedButtonId;
         await sock.sendMessage(jid, { react: { text: "👩‍💻", key: m.key } });
       }
       switch (command) {
-case "testb":
-        try {
-                              const testMessage = {
-                            text: 'Button msg test',
-                            footer: 'wa bot',
-                            buttons: [
-                                { buttonId: 'test1', buttonText: { displayText: 'Test 1 b' }, type: 1 },
-                                { buttonId: 'test2', buttonText: { displayText: 'Test 2 b' }, type: 1 },
-                                { buttonId: 'test3', buttonText: { displayText: 'Test 3 b' }, type: 1 }
-                            ]
-                        };
-       
-                        await sock.sendMessage(jid, testMessage);
-         } catch (error) {
-            console.error("Error in testb command:", error);
-            await sock.sendMessage(
-              jid,
-              {
-                text: "❌ Error checking bot status! Please try again later.",
-              },
-              { quoted: m }
-            );
-          }
-                        break;
         case "ai":
           try {
             const {
@@ -5826,7 +5782,7 @@ ${episodesLinks}
         case "ping":
           try {
             const startTime = Date.now();
-            await sock.sendMessage(
+            const response = await sock.sendMessage(
               jid,
               {
                 text: "*🔄 Checking bot speed...*\n\n> ɪɴꜰɪɴɪᴛʏ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴀʀᴜ",
@@ -5835,8 +5791,12 @@ ${episodesLinks}
             );
             const endTime = Date.now();
             const ping = endTime - startTime;
+const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+
+        await delay(1000)
             await sock.sendMessage(jid, {
               text: `*⚡ Bot speed:* ${ping}ms\n\n> ɪɴꜰɪɴɪᴛʏ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴀʀᴜ`,
+edit: response.key,
             });
           } catch (error) {
             console.error("Error in ping command:", error);
