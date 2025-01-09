@@ -6477,13 +6477,9 @@ let $ = cheerio.load(response.data);
  const url = $('body > div:nth-child(18) > div.row > div.col-sm-12.col-md-12.col-lg-6.section.order-lg-2.order-md-1.order-sm-1.order-1 > div > div.today-video > div.main-article-topic > a').attr('href');
 let newResponse = await axios.get(`${url}`);
 $ = cheerio.load(newResponse.data);
- const title = $('body > div:nth-child(18) > center > h1').text().trim();
- const date = $('body > div:nth-child(19) > center > p').text().trim();
- const article = $('#article-phara2').text().trim();
+ const title = $('body > div:nth-child(17) > center > h1').text().trim();
  
  console.log(title);
- console.log(date);
- console.log(article);
  console.log(url);
 
 } catch (error) {
