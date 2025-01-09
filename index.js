@@ -6472,22 +6472,11 @@ case "test":
 
 try {
 
-let response = await axios.get(`https://www.imdb.com/find/?q=${q}`);
+let response = await axios.get('https://www.hirunews.lk/');
 let $ = cheerio.load(response.data);
-const url = $('#__next > main > div.ipc-page-content-container.ipc-page-content-container--full.sc-f91e97af-0.jbRgdG > div.ipc-page-content-container.ipc-page-content-container--center > section > div > div.ipc-page-grid__item.ipc-page-grid__item--span-2 > section:nth-child(4) > div.sc-b03627f1-2.gWHDBT > ul > li:nth-child(1) > div.ipc-metadata-list-summary-item__c > div > a').attr('href');
-let newResponse = await axios.get(`${url}`);
-$ = cheerio.load(newResponse.data);
-const title = $('#__next > main > div > section.ipc-page-background.ipc-page-background--base.sc-afa4bed1-0.iMxoKo > section > div:nth-child(5) > section > section > div.sc-9a2a0028-3.bwWOiy > div.sc-70a366cc-0.bxYZmb > h1 > span').text().trim();
-const year = $('#__next > main > div > section.ipc-page-background.ipc-page-background--base.sc-afa4bed1-0.iMxoKo > section > div:nth-child(5) > section > section > div.sc-9a2a0028-3.bwWOiy > div.sc-70a366cc-0.bxYZmb > ul > li:nth-child(1) > a').text().trim();
-const time = $('#__next > main > div > section.ipc-page-background.ipc-page-background--base.sc-afa4bed1-0.iMxoKo > section > div:nth-child(5) > section > section > div.sc-9a2a0028-3.bwWOiy > div.sc-70a366cc-0.bxYZmb > ul > li:nth-child(3)').text().trim();
-const rate = $('#__next > main > div > section.ipc-page-background.ipc-page-background--base.sc-afa4bed1-0.iMxoKo > section > div:nth-child(5) > section > section > div.sc-9a2a0028-3.bwWOiy > div.sc-3a4309f8-0.jJkxPn.sc-70a366cc-1.kUfGfN > div > div:nth-child(1) > a > span > div > div.sc-d541859f-0.hNIoIx > div.sc-d541859f-2.kxphVf > span.sc-d541859f-1.imUuxf').text().trim();
-const director = $('#__next > main > div > section.ipc-page-background.ipc-page-background--base.sc-afa4bed1-0.iMxoKo > section > div:nth-child(5) > section > section > div.sc-9a2a0028-4.eeUUGv > div.sc-9a2a0028-6.zHrZh > div.sc-9a2a0028-10.iUfJXd > section > div.sc-70a366cc-3.iwmAOx > div > ul > li:nth-child(1) > div > ul > li > a').text().trim();
+const url = $('body > div:nth-child(18) > div.row > div.col-sm-12.col-md-12.col-lg-6.section.order-lg-2.order-md-1.order-sm-1.order-1 > div > div.today-video > div.main-article-topic > a').attr('href');
+
 console.log(url);
-console.log(title);
-console.log(year);
-console.log(time);
-console.log(rate);
-console.log(director);
 
 } catch (error) {
             console.error("Error in test command:", error);
