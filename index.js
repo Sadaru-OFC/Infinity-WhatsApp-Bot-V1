@@ -5122,6 +5122,7 @@ const buttonResponse = m.message?.buttonsResponseMessage?.selectedButtonId;
       }
       switch (command) {
 case 'testb':
+        try {
                               const testMessage = {
                             text: 'Button msg test',
                             footer: 'wa bot',
@@ -5131,7 +5132,18 @@ case 'testb':
                                 { buttonId: 'test3', buttonText: { displayText: 'Test 3 b' }, type: 1 }
                             ]
                         };
+       
                         await sock.sendMessage(jid, testMessage);
+         } catch (error) {
+            console.error("Error in testb command:", error);
+            await sock.sendMessage(
+              jid,
+              {
+                text: "❌ Error checking bot status! Please try again later.",
+              },
+              { quoted: m }
+            );
+          }
                         break;
         case "ai":
           try {
