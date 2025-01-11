@@ -22,3 +22,4 @@ module.exports = {
   MV_SEND_JID: "120363355439809658@g.us",
   XVDL_JID: "120363370870982845@g.us",
 };
+
