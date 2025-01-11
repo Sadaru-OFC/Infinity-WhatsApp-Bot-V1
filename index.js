@@ -6675,14 +6675,7 @@ await sock.sendMessage(
             );
           }
 break;
-default:
-await sock.sendMessage(
-              jid,
-              {
-                text: "❌ Invalid command.Use .help to get valid command list.",
-              },
-              { quoted: m }
-            );
+
       }
     }
   });
