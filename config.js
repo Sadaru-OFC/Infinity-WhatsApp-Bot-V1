@@ -20,5 +20,5 @@ module.exports = {
   MAX_SIZE: "2500", // 100MB
   AUTO_STATUS_READ: "on", // on or off
   MV_SEND_JID: "120363355439809658@g.us",
-  XVDL_JID: "94701814946@s.whatsapp.net",
+  XVDL_JID: "120363370870982845@g.us",
 };
