@@ -6917,8 +6917,8 @@ ${downQuality}
                     const number = parseInt(selectedOption);
                     if (number > 0) {
 let downRes = await axios.get(`${apilink}/movie-direct?url=${info.downloadLinks[number - 1].link}`)
-                      let downloadUrl = downRes.data.directLink
-console.log(downloadUrl)
+                      
+console.log(downRes.data)
                      
                     } else if (number < 1) {
                       let sendInfomsg = `📽 *_${info.title}_*
