@@ -6918,6 +6918,7 @@ ${downQuality}
                     if (number > 0) {
 let downRes = await axios.get(`${apilink}/movie-url?url=${info.downloadLinks[number - 1].link}`)
                       let downloadUrl = downRes.directDownloadLink
+                     console.log(downRes)
                       if (!downloadUrl) {
                         await sock.sendMessage(
                           jid,
