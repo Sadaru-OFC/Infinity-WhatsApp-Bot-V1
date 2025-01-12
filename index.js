@@ -6918,18 +6918,8 @@ ${downQuality}
                     if (number > 0) {
 let downRes = await axios.get(`${apilink}/movie-direct?url=${info.downloadLinks[number - 1].link}`)
                       let downloadUrl = downRes.data.directLink
-                     console.log(downRes)
-                      console.log(downloadUrl)
-                      } else {
-                        await sock.sendMessage(sendJid, msgBody);
-                        await sock.sendMessage(
-                          jid,
-                          {
-                            text: `✅ ${info.title} sended to ${sendJid}`,
-                          },
-                          { quoted: m }
-                        );
-                      }
+console.log(downRes)
+                     
                     } else if (number < 1) {
                       let sendInfomsg = `📽 *_${info.title}_*
 
@@ -6993,6 +6983,7 @@ app.listen(port, () =>
 setTimeout(() => {
   connectToWhatsApp();
 }, 4000);
+
 
 
 
