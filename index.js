@@ -6918,7 +6918,7 @@ ${downQuality}
                     if (number > 0) {
 let downRes = await axios.get(`${apilink}/movie-direct?url=${info.downloadLinks[number - 1].link}`)
                       let downloadUrl = downRes.data.directLink
-console.log(downRes)
+console.log(downloadUrl)
                      
                     } else if (number < 1) {
                       let sendInfomsg = `📽 *_${info.title}_*
